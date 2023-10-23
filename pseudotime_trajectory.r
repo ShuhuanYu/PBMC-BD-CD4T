@@ -13,7 +13,7 @@ library(ggplot2)
 library(patchwork)
 library(magrittr)
 
-# load Müller seurat object
+# load seurat object
 CD4T <- readRDS("./result/annotaion_pbmc.CD4_scRNA_hamony.rds")
 CD4T$subtype <- Idents(CD4T)
 
