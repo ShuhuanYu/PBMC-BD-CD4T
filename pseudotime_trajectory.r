@@ -54,4 +54,5 @@ ggplot(data.pseudo, aes(monocle3_pseudotime, subtype, fill = subtype)) + geom_bo
 p3 <- ggplot(data.pseudo, aes(monocle3_pseudotime, reorder(subtype, monocle3_pseudotime), fill = subtype)) + geom_boxplot()
 ggsave("./result/Plots/monocle3-CD4T_subtype_pseudoime-trajectory.pdf",p1+p2+p3,width=15,height=6)
 
+saveRDS(cds, "./result/monocle3-PBMC_CD4T.cds")
 ```
