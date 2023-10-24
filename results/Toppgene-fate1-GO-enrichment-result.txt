@@ -1,0 +1,516 @@
+Category	ID	Name	Source	p-value	q-value Bonferroni	q-value FDR B&H	q-value FDR B&Y	Hit Count in Query List	Hit Count in Genome	Hit in Query List
+GO: Biological Process	GO:0002181	cytoplasmic translation	 	3.726E-33	7.266E-30	7.266E-30	5.924E-29	22	173	RPL21,RPL31,RPL32,RPL34,RPL35A,RPL39,RPLP2,RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS20,RPS23,RPS25,RPS27,RPS27A,RPS29,RPL9,RPL13
+GO: Biological Process	GO:0140236	translation at presynapse	 	2.415E-21	4.710E-18	1.511E-18	1.232E-17	12	53	RPL32,RPL34,RPL35A,RPLP2,RPS5,RPS12,RPS13,RPS14,RPS27,RPS27A,RPL9,RPL13
+GO: Biological Process	GO:0140241	translation at synapse	 	3.100E-21	6.046E-18	1.511E-18	1.232E-17	12	54	RPL32,RPL34,RPL35A,RPLP2,RPS5,RPS12,RPS13,RPS14,RPS27,RPS27A,RPL9,RPL13
+GO: Biological Process	GO:0140242	translation at postsynapse	 	3.100E-21	6.046E-18	1.511E-18	1.232E-17	12	54	RPL32,RPL34,RPL35A,RPLP2,RPS5,RPS12,RPS13,RPS14,RPS27,RPS27A,RPL9,RPL13
+GO: Biological Process	GO:0006412	translation	 	1.520E-19	2.964E-16	5.928E-17	4.833E-16	24	932	RPL21,RPL31,RPL32,RPL34,RPL35A,RPL39,RPLP2,GAPDH,RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS20,RPS23,RPS25,RPS27,RPS27A,RPS29,HBB,RPL9,RPL13
+GO: Biological Process	GO:0043043	peptide biosynthetic process	 	3.561E-19	6.945E-16	1.157E-16	9.437E-16	24	967	RPL21,RPL31,RPL32,RPL34,RPL35A,RPL39,RPLP2,GAPDH,RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS20,RPS23,RPS25,RPS27,RPS27A,RPS29,HBB,RPL9,RPL13
+GO: Biological Process	GO:0006518	peptide metabolic process	 	7.938E-18	1.548E-14	2.211E-15	1.803E-14	24	1107	RPL21,RPL31,RPL32,RPL34,RPL35A,RPL39,RPLP2,GAPDH,RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS20,RPS23,RPS25,RPS27,RPS27A,RPS29,HBB,RPL9,RPL13
+GO: Biological Process	GO:0043604	amide biosynthetic process	 	9.357E-18	1.825E-14	2.281E-15	1.860E-14	24	1115	RPL21,RPL31,RPL32,RPL34,RPL35A,RPL39,RPLP2,GAPDH,RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS20,RPS23,RPS25,RPS27,RPS27A,RPS29,HBB,RPL9,RPL13
+GO: Biological Process	GO:0042274	ribosomal small subunit biogenesis	 	2.764E-15	5.391E-12	5.989E-13	4.883E-12	11	114	RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS23,RPS25,RPS27,RPS27A
+GO: Biological Process	GO:0043603	amide metabolic process	 	3.269E-15	6.375E-12	6.375E-13	5.197E-12	24	1445	RPL21,RPL31,RPL32,RPL34,RPL35A,RPL39,RPLP2,GAPDH,RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS20,RPS23,RPS25,RPS27,RPS27A,RPS29,HBB,RPL9,RPL13
+GO: Biological Process	GO:0002478	antigen processing and presentation of exogenous peptide antigen	 	1.841E-11	3.589E-8	3.263E-9	2.660E-8	7	47	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0042254	ribosome biogenesis	 	2.970E-11	5.792E-8	4.827E-9	3.935E-8	12	348	RPL35A,RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS23,RPS25,RPS27,RPS27A
+GO: Biological Process	GO:0019884	antigen processing and presentation of exogenous antigen	 	7.598E-11	1.482E-7	1.140E-8	9.292E-8	7	57	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0019883	antigen processing and presentation of endogenous antigen	 	1.887E-10	3.680E-7	2.629E-8	2.143E-7	6	34	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0048002	antigen processing and presentation of peptide antigen	 	5.519E-10	1.076E-6	7.175E-8	5.850E-7	7	75	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0002477	antigen processing and presentation of exogenous peptide antigen via MHC class Ib	 	3.798E-9	7.406E-6	4.629E-7	3.774E-6	4	9	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0022613	ribonucleoprotein complex biogenesis	 	4.095E-9	7.986E-6	4.698E-7	3.830E-6	12	536	RPL35A,RPS3A,RPS4X,RPS5,RPS6,RPS12,RPS13,RPS14,RPS23,RPS25,RPS27,RPS27A
+GO: Biological Process	GO:0000028	ribosomal small subunit assembly	 	5.256E-9	1.025E-5	5.394E-7	4.398E-6	5	27	RPS5,RPS6,RPS14,RPS25,RPS27
+GO: Biological Process	GO:0002483	antigen processing and presentation of endogenous peptide antigen	 	5.256E-9	1.025E-5	5.394E-7	4.398E-6	5	27	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0030097	hemopoiesis	 	7.817E-9	1.524E-5	7.622E-7	6.214E-6	18	1534	RTKN2,RPL35A,HLA-B,ANXA2,RPS6,HLA-DRB1,B2M,ACTB,RPS14,TMSB4X,CD74,RPS27,RPS29,HBA2,HBB,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0007159	leukocyte cell-cell adhesion	 	2.029E-8	3.957E-5	1.884E-6	1.536E-5	11	492	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0098609	cell-cell adhesion	 	3.211E-8	6.262E-5	2.846E-6	2.321E-5	15	1112	HLA-A,HLA-B,HLA-C,CLIC1,HLA-DPB1,ANXA2,HLA-DRB1,B2M,ACTB,ACTG1,CD74,HBB,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0050870	positive regulation of T cell activation	 	4.899E-8	9.553E-5	4.153E-6	3.386E-5	9	309	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1
+GO: Biological Process	GO:0019882	antigen processing and presentation	 	5.648E-8	1.101E-4	4.589E-6	3.742E-5	7	145	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0001916	positive regulation of T cell mediated cytotoxicity	 	8.621E-8	1.681E-4	6.725E-6	5.483E-5	5	46	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0002428	antigen processing and presentation of peptide antigen via MHC class Ib	 	9.076E-8	1.770E-4	6.807E-6	5.550E-5	4	18	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:1903039	positive regulation of leukocyte cell-cell adhesion	 	1.001E-7	1.952E-4	7.231E-6	5.895E-5	9	336	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1
+GO: Biological Process	GO:1903037	regulation of leukocyte cell-cell adhesion	 	1.052E-7	2.051E-4	7.323E-6	5.971E-5	10	451	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0045785	positive regulation of cell adhesion	 	1.283E-7	2.502E-4	8.627E-6	7.034E-5	11	590	S100A10,HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:0050863	regulation of T cell activation	 	1.512E-7	2.948E-4	9.827E-6	8.012E-5	10	469	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0030218	erythrocyte differentiation	 	1.565E-7	3.052E-4	9.846E-6	8.028E-5	8	253	RPL35A,RPS6,B2M,RPS14,RPS27,RPS29,HBA2,HBB
+GO: Biological Process	GO:0002285	lymphocyte activation involved in immune response	 	2.167E-7	4.225E-4	1.320E-5	1.076E-4	8	264	HLA-A,HLA-B,HLA-C,RPS6,HLA-DRB1,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0034101	erythrocyte homeostasis	 	2.295E-7	4.475E-4	1.356E-5	1.106E-4	8	266	RPL35A,RPS6,B2M,RPS14,RPS27,RPS29,HBA2,HBB
+GO: Biological Process	GO:0030185	nitric oxide transport	 	2.658E-7	5.183E-4	1.525E-5	1.243E-4	3	6	HBA1,HBA2,HBB
+GO: Biological Process	GO:0019885	antigen processing and presentation of endogenous peptide antigen via MHC class I	 	3.118E-7	6.081E-4	1.737E-5	1.416E-4	4	24	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0007155	cell adhesion	 	3.219E-7	6.277E-4	1.744E-5	1.422E-4	17	1735	S100A10,IL32,HLA-A,HLA-B,HLA-C,CLIC1,HLA-DPB1,ANXA2,HLA-DRB1,B2M,ACTB,ACTG1,CD74,HBB,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0019730	antimicrobial humoral response	 	3.327E-7	6.488E-4	1.754E-5	1.430E-4	7	188	RPL39,HLA-A,HLA-B,HLA-C,GAPDH,B2M,LGALS3
+GO: Biological Process	GO:0016064	immunoglobulin mediated immune response	 	3.449E-7	6.725E-4	1.770E-5	1.443E-4	7	189	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0030155	regulation of cell adhesion	 	3.601E-7	7.023E-4	1.788E-5	1.458E-4	13	972	S100A10,HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,ACTG1,CD74,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0002475	antigen processing and presentation via MHC class Ib	 	3.706E-7	7.226E-4	1.788E-5	1.458E-4	4	25	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0022409	positive regulation of cell-cell adhesion	 	3.760E-7	7.331E-4	1.788E-5	1.458E-4	9	393	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1
+GO: Biological Process	GO:0001815	positive regulation of antibody-dependent cellular cytotoxicity	 	4.644E-7	9.055E-4	2.156E-5	1.758E-4	3	7	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0019724	B cell mediated immunity	 	5.054E-7	9.855E-4	2.292E-5	1.869E-4	7	200	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0051251	positive regulation of lymphocyte activation	 	5.468E-7	1.066E-3	2.423E-5	1.976E-4	9	411	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1
+GO: Biological Process	GO:0030099	myeloid cell differentiation	 	6.276E-7	1.224E-3	2.720E-5	2.217E-4	11	692	RPL35A,ANXA2,RPS6,HLA-DRB1,B2M,RPS14,CD74,RPS27,RPS29,HBA2,HBB
+GO: Biological Process	GO:0001775	cell activation	 	7.012E-7	1.367E-3	2.729E-5	2.225E-4	15	1410	HLA-A,HLA-B,HLA-C,CLIC1,HLA-DPB1,RPS6,HLA-DRB1,B2M,ACTB,ACTG1,CD74,HBB,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0001914	regulation of T cell mediated cytotoxicity	 	7.287E-7	1.421E-3	2.729E-5	2.225E-4	5	70	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0001813	regulation of antibody-dependent cellular cytotoxicity	 	7.417E-7	1.446E-3	2.729E-5	2.225E-4	3	8	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002728	negative regulation of natural killer cell cytokine production	 	7.417E-7	1.446E-3	2.729E-5	2.225E-4	3	8	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002488	antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway	 	7.417E-7	1.446E-3	2.729E-5	2.225E-4	3	8	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002489	antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-dependent	 	7.417E-7	1.446E-3	2.729E-5	2.225E-4	3	8	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002485	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent	 	7.417E-7	1.446E-3	2.729E-5	2.225E-4	3	8	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0032759	positive regulation of TRAIL production	 	7.417E-7	1.446E-3	2.729E-5	2.225E-4	3	8	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0042110	T cell activation	 	8.897E-7	1.735E-3	3.213E-5	2.619E-4	11	717	HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS6,HLA-DRB1,B2M,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0008284	positive regulation of cell population proliferation	 	9.604E-7	1.873E-3	3.405E-5	2.776E-4	14	1247	S100A6,RTKN2,HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS3A,ANXA2,RPS4X,RPS6,ACTB,CD74,ITGB1,LGALS3
+GO: Biological Process	GO:0042255	ribosome assembly	 	1.030E-6	2.008E-3	3.559E-5	2.902E-4	5	75	RPS5,RPS6,RPS14,RPS25,RPS27
+GO: Biological Process	GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	 	1.040E-6	2.029E-3	3.559E-5	2.902E-4	4	32	HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0032639	TRAIL production	 	1.111E-6	2.166E-3	3.636E-5	2.964E-4	3	9	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0032679	regulation of TRAIL production	 	1.111E-6	2.166E-3	3.636E-5	2.964E-4	3	9	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002262	myeloid cell homeostasis	 	1.144E-6	2.231E-3	3.636E-5	2.964E-4	8	329	RPL35A,RPS6,B2M,RPS14,RPS27,RPS29,HBA2,HBB
+GO: Biological Process	GO:0006959	humoral immune response	 	1.170E-6	2.282E-3	3.636E-5	2.964E-4	8	330	RPL39,HLA-A,HLA-B,HLA-C,GAPDH,HLA-DRB1,B2M,LGALS3
+GO: Biological Process	GO:0002711	positive regulation of T cell mediated immunity	 	1.175E-6	2.290E-3	3.636E-5	2.964E-4	5	77	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0048524	positive regulation of viral process	 	1.175E-6	2.290E-3	3.636E-5	2.964E-4	5	77	ANXA2,HLA-DRB1,CD74,PFN1,LGALS1
+GO: Biological Process	GO:1903902	positive regulation of viral life cycle	 	1.337E-6	2.607E-3	4.073E-5	3.321E-4	4	34	ANXA2,HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0043322	negative regulation of natural killer cell degranulation	 	1.584E-6	3.089E-3	4.752E-5	3.874E-4	3	10	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0022407	regulation of cell-cell adhesion	 	1.616E-6	3.151E-3	4.774E-5	3.892E-4	10	608	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0002495	antigen processing and presentation of peptide antigen via MHC class II	 	1.692E-6	3.299E-3	4.896E-5	3.992E-4	4	36	HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0001912	positive regulation of leukocyte mediated cytotoxicity	 	1.707E-6	3.329E-3	4.896E-5	3.992E-4	5	83	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0002696	positive regulation of leukocyte activation	 	1.877E-6	3.660E-3	5.304E-5	4.324E-4	9	477	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1
+GO: Biological Process	GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	 	2.113E-6	4.120E-3	5.730E-5	4.671E-4	4	38	HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0001913	T cell mediated cytotoxicity	 	2.157E-6	4.206E-3	5.730E-5	4.671E-4	5	87	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:2000566	positive regulation of CD8-positive, alpha-beta T cell proliferation	 	2.174E-6	4.240E-3	5.730E-5	4.671E-4	3	11	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0043323	positive regulation of natural killer cell degranulation	 	2.174E-6	4.240E-3	5.730E-5	4.671E-4	3	11	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002519	natural killer cell tolerance induction	 	2.174E-6	4.240E-3	5.730E-5	4.671E-4	3	11	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002821	positive regulation of adaptive immune response	 	2.277E-6	4.441E-3	5.921E-5	4.828E-4	6	159	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0051249	regulation of lymphocyte activation	 	2.351E-6	4.585E-3	6.033E-5	4.919E-4	10	634	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	 	2.606E-6	5.083E-3	6.576E-5	5.362E-4	4	40	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0061515	myeloid cell development	 	2.631E-6	5.130E-3	6.576E-5	5.362E-4	6	163	ANXA2,RPS6,RPS14,RPS29,HBA2,HBB
+GO: Biological Process	GO:0048821	erythrocyte development	 	2.695E-6	5.256E-3	6.653E-5	5.424E-4	5	91	RPS6,RPS14,RPS29,HBA2,HBB
+GO: Biological Process	GO:0050867	positive regulation of cell activation	 	2.760E-6	5.382E-3	6.728E-5	5.485E-4	9	500	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1
+GO: Biological Process	GO:0002366	leukocyte activation involved in immune response	 	3.150E-6	6.143E-3	7.584E-5	6.183E-4	8	377	HLA-A,HLA-B,HLA-C,RPS6,HLA-DRB1,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0002263	cell activation involved in immune response	 	3.406E-6	6.641E-3	8.099E-5	6.603E-4	8	381	HLA-A,HLA-B,HLA-C,RPS6,HLA-DRB1,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0019731	antibacterial humoral response	 	3.511E-6	6.846E-3	8.149E-5	6.644E-4	5	96	RPL39,HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0031343	positive regulation of cell killing	 	3.511E-6	6.846E-3	8.149E-5	6.644E-4	5	96	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0046649	lymphocyte activation	 	3.614E-6	7.047E-3	8.291E-5	6.760E-4	12	1005	HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS6,HLA-DRB1,B2M,ACTB,CD74,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0042270	protection from natural killer cell mediated cytotoxicity	 	3.756E-6	7.324E-3	8.516E-5	6.943E-4	3	13	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002724	regulation of T cell cytokine production	 	4.605E-6	8.979E-3	1.032E-4	8.415E-4	4	46	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0043321	regulation of natural killer cell degranulation	 	4.772E-6	9.306E-3	1.057E-4	8.622E-4	3	14	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002720	positive regulation of cytokine production involved in immune response	 	5.456E-6	1.064E-2	1.185E-4	9.664E-4	5	105	HLA-A,HLA-B,HLA-C,B2M,CD74
+GO: Biological Process	GO:0032673	regulation of interleukin-4 production	 	5.471E-6	1.067E-2	1.185E-4	9.664E-4	4	48	HLA-A,HLA-B,HLA-C,HLA-DRB1
+GO: Biological Process	GO:0015671	oxygen transport	 	5.955E-6	1.161E-2	1.255E-4	1.023E-3	3	15	HBA1,HBA2,HBB
+GO: Biological Process	GO:0002729	positive regulation of natural killer cell cytokine production	 	5.955E-6	1.161E-2	1.255E-4	1.023E-3	3	15	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0048872	homeostasis of number of cells	 	5.984E-6	1.167E-2	1.255E-4	1.023E-3	9	550	RPL35A,RPS6,B2M,RPS14,CD74,RPS27,RPS29,HBA2,HBB
+GO: Biological Process	GO:0046651	lymphocyte proliferation	 	6.845E-6	1.335E-2	1.413E-4	1.152E-3	8	419	HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS6,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0001798	positive regulation of type IIa hypersensitivity	 	7.317E-6	1.427E-2	1.413E-4	1.152E-3	3	16	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002370	natural killer cell cytokine production	 	7.317E-6	1.427E-2	1.413E-4	1.152E-3	3	16	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002399	MHC class II protein complex assembly	 	7.317E-6	1.427E-2	1.413E-4	1.152E-3	3	16	HLA-DPB1,HLA-DRB1,B2M
+GO: Biological Process	GO:0002727	regulation of natural killer cell cytokine production	 	7.317E-6	1.427E-2	1.413E-4	1.152E-3	3	16	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002486	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	 	7.317E-6	1.427E-2	1.413E-4	1.152E-3	3	16	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002894	positive regulation of type II hypersensitivity	 	7.317E-6	1.427E-2	1.413E-4	1.152E-3	3	16	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002503	peptide antigen assembly with MHC class II protein complex	 	7.317E-6	1.427E-2	1.413E-4	1.152E-3	3	16	HLA-DPB1,HLA-DRB1,B2M
+GO: Biological Process	GO:0051129	negative regulation of cellular component organization	 	7.469E-6	1.456E-2	1.428E-4	1.164E-3	11	894	HLA-A,HLA-B,HLA-C,ANXA2,RPS6,B2M,TMSB4X,PFN1,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0032943	mononuclear cell proliferation	 	7.724E-6	1.506E-2	1.462E-4	1.192E-3	8	426	HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS6,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0060627	regulation of vesicle-mediated transport	 	7.797E-6	1.521E-2	1.462E-4	1.192E-3	10	726	S100A10,HLA-A,HLA-B,HLA-C,ANXA2,B2M,ACTB,ACTG1,ITGB1,LGALS3
+GO: Biological Process	GO:0042098	T cell proliferation	 	7.952E-6	1.551E-2	1.477E-4	1.204E-3	7	303	HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS6,HLA-DRB1,LGALS3
+GO: Biological Process	GO:0001796	regulation of type IIa hypersensitivity	 	8.869E-6	1.730E-2	1.558E-4	1.270E-3	3	17	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:2000564	regulation of CD8-positive, alpha-beta T cell proliferation	 	8.869E-6	1.730E-2	1.558E-4	1.270E-3	3	17	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002484	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway	 	8.869E-6	1.730E-2	1.558E-4	1.270E-3	3	17	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002476	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	 	8.869E-6	1.730E-2	1.558E-4	1.270E-3	3	17	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002892	regulation of type II hypersensitivity	 	8.869E-6	1.730E-2	1.558E-4	1.270E-3	3	17	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I	 	8.869E-6	1.730E-2	1.558E-4	1.270E-3	3	17	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0032633	interleukin-4 production	 	9.471E-6	1.847E-2	1.649E-4	1.344E-3	4	55	HLA-A,HLA-B,HLA-C,HLA-DRB1
+GO: Biological Process	GO:0045921	positive regulation of exocytosis	 	9.655E-6	1.883E-2	1.666E-4	1.358E-3	5	118	S100A10,HLA-A,HLA-B,HLA-C,ANXA2
+GO: Biological Process	GO:0001788	antibody-dependent cellular cytotoxicity	 	1.063E-5	2.072E-2	1.802E-4	1.469E-3	3	18	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0035740	CD8-positive, alpha-beta T cell proliferation	 	1.063E-5	2.072E-2	1.802E-4	1.469E-3	3	18	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002694	regulation of leukocyte activation	 	1.085E-5	2.116E-2	1.822E-4	1.485E-3	10	754	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0002369	T cell cytokine production	 	1.093E-5	2.131E-2	1.822E-4	1.485E-3	4	57	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0050670	regulation of lymphocyte proliferation	 	1.204E-5	2.349E-2	1.990E-4	1.623E-3	7	323	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0002709	regulation of T cell mediated immunity	 	1.229E-5	2.397E-2	2.014E-4	1.642E-3	5	124	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0002725	negative regulation of T cell cytokine production	 	1.260E-5	2.456E-2	2.047E-4	1.669E-3	3	19	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0032944	regulation of mononuclear cell proliferation	 	1.304E-5	2.543E-2	2.102E-4	1.714E-3	7	327	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0001906	cell killing	 	1.330E-5	2.594E-2	2.126E-4	1.733E-3	7	328	HLA-A,HLA-B,HLA-C,GAPDH,HLA-DRB1,B2M,LGALS3
+GO: Biological Process	GO:0001794	type IIa hypersensitivity	 	1.479E-5	2.885E-2	2.271E-4	1.852E-3	3	20	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002396	MHC protein complex assembly	 	1.479E-5	2.885E-2	2.271E-4	1.852E-3	3	20	HLA-DPB1,HLA-DRB1,B2M
+GO: Biological Process	GO:0002445	type II hypersensitivity	 	1.479E-5	2.885E-2	2.271E-4	1.852E-3	3	20	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:2001198	regulation of dendritic cell differentiation	 	1.479E-5	2.885E-2	2.271E-4	1.852E-3	3	20	HLA-B,LGALS1,LGALS3
+GO: Biological Process	GO:0002501	peptide antigen assembly with MHC protein complex	 	1.479E-5	2.885E-2	2.271E-4	1.852E-3	3	20	HLA-DPB1,HLA-DRB1,B2M
+GO: Biological Process	GO:0070661	leukocyte proliferation	 	1.504E-5	2.932E-2	2.291E-4	1.868E-3	8	467	HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS6,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0001910	regulation of leukocyte mediated cytotoxicity	 	1.546E-5	3.014E-2	2.336E-4	1.905E-3	5	130	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0048871	multicellular organismal-level homeostasis	 	1.676E-5	3.267E-2	2.493E-4	2.033E-3	12	1169	RPL35A,RPS6,B2M,ACTB,RPS14,ACTG1,CD74,RPS27,RPS29,HBA2,HBB,ITGB1
+GO: Biological Process	GO:0016045	detection of bacterium	 	1.723E-5	3.360E-2	2.493E-4	2.033E-3	3	21	HLA-A,HLA-B,HLA-DRB1
+GO: Biological Process	GO:0075294	positive regulation by symbiont of entry into host	 	1.723E-5	3.360E-2	2.493E-4	2.033E-3	3	21	HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0002885	positive regulation of hypersensitivity	 	1.723E-5	3.360E-2	2.493E-4	2.033E-3	3	21	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0046598	positive regulation of viral entry into host cell	 	1.723E-5	3.360E-2	2.493E-4	2.033E-3	3	21	HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0034109	homotypic cell-cell adhesion	 	1.726E-5	3.366E-2	2.493E-4	2.033E-3	5	133	CLIC1,ACTB,ACTG1,HBB,LGALS1
+GO: Biological Process	GO:1903131	mononuclear cell differentiation	 	1.750E-5	3.412E-2	2.509E-4	2.045E-3	9	629	HLA-B,RPS6,HLA-DRB1,B2M,ACTB,CD74,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0051250	negative regulation of lymphocyte activation	 	1.934E-5	3.772E-2	2.753E-4	2.245E-3	6	231	HLA-A,HLA-B,HLA-C,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0015670	carbon dioxide transport	 	1.992E-5	3.884E-2	2.774E-4	2.262E-3	3	22	HBA1,HBA2,HBB
+GO: Biological Process	GO:0032815	negative regulation of natural killer cell activation	 	1.992E-5	3.884E-2	2.774E-4	2.262E-3	3	22	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0032819	positive regulation of natural killer cell proliferation	 	1.992E-5	3.884E-2	2.774E-4	2.262E-3	3	22	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002861	regulation of inflammatory response to antigenic stimulus	 	2.083E-5	4.063E-2	2.881E-4	2.349E-3	4	67	HLA-A,HLA-B,HLA-C,HLA-DRB1
+GO: Biological Process	GO:0070663	regulation of leukocyte proliferation	 	2.174E-5	4.239E-2	2.985E-4	2.434E-3	7	354	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0050865	regulation of cell activation	 	2.217E-5	4.323E-2	3.023E-4	2.465E-3	10	819	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0002866	positive regulation of acute inflammatory response to antigenic stimulus	 	2.286E-5	4.459E-2	3.096E-4	2.524E-3	3	23	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0043320	natural killer cell degranulation	 	2.609E-5	5.087E-2	3.484E-4	2.841E-3	3	24	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0032817	regulation of natural killer cell proliferation	 	2.609E-5	5.087E-2	3.484E-4	2.841E-3	3	24	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0045321	leukocyte activation	 	2.711E-5	5.286E-2	3.596E-4	2.932E-3	12	1227	HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS6,HLA-DRB1,B2M,ACTB,CD74,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0002521	leukocyte differentiation	 	2.781E-5	5.424E-2	3.665E-4	2.988E-3	10	841	HLA-B,ANXA2,RPS6,HLA-DRB1,B2M,ACTB,CD74,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0002252	immune effector process	 	2.810E-5	5.479E-2	3.677E-4	2.998E-3	10	842	HLA-A,HLA-B,HLA-C,HLA-DPB1,RPS6,HLA-DRB1,B2M,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0031345	negative regulation of cell projection organization	 	2.950E-5	5.753E-2	3.772E-4	3.075E-3	6	249	HLA-A,HLA-B,HLA-C,B2M,ITGB1,LGALS1
+GO: Biological Process	GO:0098543	detection of other organism	 	2.959E-5	5.771E-2	3.772E-4	3.075E-3	3	25	HLA-A,HLA-B,HLA-DRB1
+GO: Biological Process	GO:0032736	positive regulation of interleukin-13 production	 	2.959E-5	5.771E-2	3.772E-4	3.075E-3	3	25	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002883	regulation of hypersensitivity	 	2.959E-5	5.771E-2	3.772E-4	3.075E-3	3	25	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002718	regulation of cytokine production involved in immune response	 	3.080E-5	6.007E-2	3.875E-4	3.160E-3	5	150	HLA-A,HLA-B,HLA-C,B2M,CD74
+GO: Biological Process	GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	 	3.080E-5	6.007E-2	3.875E-4	3.160E-3	5	150	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0042129	regulation of T cell proliferation	 	3.155E-5	6.152E-2	3.944E-4	3.215E-3	6	252	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,LGALS3
+GO: Biological Process	GO:0002708	positive regulation of lymphocyte mediated immunity	 	3.282E-5	6.401E-2	4.077E-4	3.324E-3	5	152	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0050777	negative regulation of immune response	 	3.371E-5	6.573E-2	4.146E-4	3.380E-3	6	255	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,LGALS3
+GO: Biological Process	GO:0140694	non-membrane-bounded organelle assembly	 	3.381E-5	6.592E-2	4.146E-4	3.380E-3	8	523	RPS5,RPS6,RPS14,ACTG1,RPS23,RPS25,RPS27,ITGB1
+GO: Biological Process	GO:0150111	regulation of transepithelial transport	 	3.437E-5	6.702E-2	4.189E-4	3.415E-3	2	4	ACTB,ACTG1
+GO: Biological Process	GO:0002819	regulation of adaptive immune response	 	4.006E-5	7.811E-2	4.852E-4	3.956E-3	6	263	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0001787	natural killer cell proliferation	 	4.194E-5	8.177E-2	5.048E-4	4.115E-3	3	28	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0031341	regulation of cell killing	 	4.321E-5	8.427E-2	5.170E-4	4.215E-3	5	161	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0002695	negative regulation of leukocyte activation	 	4.449E-5	8.675E-2	5.290E-4	4.313E-3	6	268	HLA-A,HLA-B,HLA-C,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0002449	lymphocyte mediated immunity	 	4.584E-5	8.939E-2	5.417E-4	4.417E-3	7	398	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0015669	gas transport	 	4.669E-5	9.105E-2	5.452E-4	4.445E-3	3	29	HBA1,HBA2,HBB
+GO: Biological Process	GO:0002863	positive regulation of inflammatory response to antigenic stimulus	 	4.669E-5	9.105E-2	5.452E-4	4.445E-3	3	29	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:2001187	positive regulation of CD8-positive, alpha-beta T cell activation	 	5.179E-5	1.010E-1	6.012E-4	4.901E-3	3	30	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002377	immunoglobulin production	 	5.345E-5	1.042E-1	6.168E-4	5.029E-3	6	277	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M
+GO: Biological Process	GO:1905686	positive regulation of plasma membrane repair	 	5.720E-5	1.115E-1	6.527E-4	5.322E-3	2	5	S100A10,ANXA2
+GO: Biological Process	GO:0002524	hypersensitivity	 	5.725E-5	1.116E-1	6.527E-4	5.322E-3	3	31	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002367	cytokine production involved in immune response	 	5.757E-5	1.123E-1	6.527E-4	5.322E-3	5	171	HLA-A,HLA-B,HLA-C,B2M,CD74
+GO: Biological Process	GO:1903706	regulation of hemopoiesis	 	5.831E-5	1.137E-1	6.573E-4	5.359E-3	8	565	HLA-B,HLA-DRB1,B2M,ACTB,CD74,HBB,LGALS1,LGALS3
+GO: Biological Process	GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	 	5.968E-5	1.164E-1	6.688E-4	5.453E-3	7	415	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0050830	defense response to Gram-positive bacterium	 	6.084E-5	1.186E-1	6.765E-4	5.516E-3	5	173	RPL39,HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0048146	positive regulation of fibroblast proliferation	 	6.106E-5	1.191E-1	6.765E-4	5.516E-3	4	88	S100A6,RPS3A,ANXA2,CD74
+GO: Biological Process	GO:0002864	regulation of acute inflammatory response to antigenic stimulus	 	6.306E-5	1.230E-1	6.947E-4	5.664E-3	3	32	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:1903532	positive regulation of secretion by cell	 	6.434E-5	1.255E-1	7.049E-4	5.747E-3	7	420	S100A10,HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,LGALS3
+GO: Biological Process	GO:0002456	T cell mediated immunity	 	6.601E-5	1.287E-1	7.191E-4	5.863E-3	5	176	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0002705	positive regulation of leukocyte mediated immunity	 	7.151E-5	1.394E-1	7.747E-4	6.316E-3	5	179	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0002702	positive regulation of production of molecular mediator of immune response	 	7.342E-5	1.432E-1	7.909E-4	6.449E-3	5	180	HLA-A,HLA-B,HLA-C,B2M,CD74
+GO: Biological Process	GO:0050866	negative regulation of cell activation	 	7.571E-5	1.476E-1	8.079E-4	6.587E-3	6	295	HLA-A,HLA-B,HLA-C,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0098581	detection of external biotic stimulus	 	7.582E-5	1.478E-1	8.079E-4	6.587E-3	3	34	HLA-A,HLA-B,HLA-DRB1
+GO: Biological Process	GO:0002440	production of molecular mediator of immune response	 	7.902E-5	1.541E-1	8.375E-4	6.828E-3	7	434	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0042744	hydrogen peroxide catabolic process	 	8.279E-5	1.614E-1	8.726E-4	7.115E-3	3	35	HBA1,HBA2,HBB
+GO: Biological Process	GO:0010977	negative regulation of neuron projection development	 	9.015E-5	1.758E-1	9.352E-4	7.624E-3	5	188	HLA-A,HLA-B,HLA-C,B2M,LGALS1
+GO: Biological Process	GO:0032656	regulation of interleukin-13 production	 	9.016E-5	1.758E-1	9.352E-4	7.624E-3	3	36	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0043301	negative regulation of leukocyte degranulation	 	9.016E-5	1.758E-1	9.352E-4	7.624E-3	3	36	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0060284	regulation of cell development	 	9.701E-5	1.892E-1	1.001E-3	8.160E-3	11	1181	S100A10,HLA-B,ANXA2,HLA-DRB1,B2M,ACTB,CD74,HBB,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0032616	interleukin-13 production	 	9.795E-5	1.910E-1	1.005E-3	8.196E-3	3	37	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0032753	positive regulation of interleukin-4 production	 	1.062E-4	2.070E-1	1.078E-3	8.791E-3	3	38	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002888	positive regulation of myeloid leukocyte mediated immunity	 	1.062E-4	2.070E-1	1.078E-3	8.791E-3	3	38	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0051050	positive regulation of transport	 	1.118E-4	2.181E-1	1.126E-3	9.179E-3	11	1200	S100A10,HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,B2M,ACTB,TMSB4X,ITGB1,LGALS3
+GO: Biological Process	GO:0051047	positive regulation of secretion	 	1.120E-4	2.184E-1	1.126E-3	9.179E-3	7	459	S100A10,HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,LGALS3
+GO: Biological Process	GO:0070527	platelet aggregation	 	1.127E-4	2.198E-1	1.127E-3	9.190E-3	4	103	CLIC1,ACTB,ACTG1,HBB
+GO: Biological Process	GO:0001909	leukocyte mediated cytotoxicity	 	1.178E-4	2.297E-1	1.172E-3	9.554E-3	5	199	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0050792	regulation of viral process	 	1.234E-4	2.407E-1	1.222E-3	9.961E-3	5	201	ANXA2,HLA-DRB1,CD74,PFN1,LGALS1
+GO: Biological Process	GO:0050671	positive regulation of lymphocyte proliferation	 	1.263E-4	2.464E-1	1.244E-3	1.014E-2	5	202	HLA-A,HLA-B,HLA-C,HLA-DPB1,CD74
+GO: Biological Process	GO:0032946	positive regulation of mononuclear cell proliferation	 	1.354E-4	2.640E-1	1.320E-3	1.076E-2	5	205	HLA-A,HLA-B,HLA-C,HLA-DPB1,CD74
+GO: Biological Process	GO:0050729	positive regulation of inflammatory response	 	1.354E-4	2.640E-1	1.320E-3	1.076E-2	5	205	HLA-A,HLA-B,HLA-C,CD74,LGALS1
+GO: Biological Process	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	 	1.385E-4	2.700E-1	1.343E-3	1.095E-2	5	206	S100A4,GAPDH,HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0046635	positive regulation of alpha-beta T cell activation	 	1.403E-4	2.736E-1	1.348E-3	1.099E-2	4	109	HLA-A,HLA-B,HLA-C,HLA-DRB1
+GO: Biological Process	GO:0002437	inflammatory response to antigenic stimulus	 	1.403E-4	2.736E-1	1.348E-3	1.099E-2	4	109	HLA-A,HLA-B,HLA-C,HLA-DRB1
+GO: Biological Process	GO:0035633	maintenance of blood-brain barrier	 	1.540E-4	3.003E-1	1.465E-3	1.194E-2	3	43	ACTB,ACTG1,ITGB1
+GO: Biological Process	GO:2001185	regulation of CD8-positive, alpha-beta T cell activation	 	1.540E-4	3.003E-1	1.465E-3	1.194E-2	3	43	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:1905684	regulation of plasma membrane repair	 	1.594E-4	3.108E-1	1.509E-3	1.230E-2	2	8	S100A10,ANXA2
+GO: Biological Process	GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	 	1.650E-4	3.217E-1	1.547E-3	1.261E-2	3	44	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0043302	positive regulation of leukocyte degranulation	 	1.650E-4	3.217E-1	1.547E-3	1.261E-2	3	44	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0045185	maintenance of protein location	 	1.725E-4	3.364E-1	1.610E-3	1.312E-2	4	115	TMSB4X,PFN1,LGALS1,LGALS3
+GO: Biological Process	GO:0045953	negative regulation of natural killer cell mediated cytotoxicity	 	1.765E-4	3.441E-1	1.639E-3	1.336E-2	3	45	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002716	negative regulation of natural killer cell mediated immunity	 	1.884E-4	3.675E-1	1.733E-3	1.413E-2	3	46	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002719	negative regulation of cytokine production involved in immune response	 	1.884E-4	3.675E-1	1.733E-3	1.413E-2	3	46	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0070665	positive regulation of leukocyte proliferation	 	2.004E-4	3.907E-1	1.823E-3	1.486E-2	5	223	HLA-A,HLA-B,HLA-C,HLA-DPB1,CD74
+GO: Biological Process	GO:0002717	positive regulation of natural killer cell mediated immunity	 	2.010E-4	3.919E-1	1.823E-3	1.486E-2	3	47	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002507	tolerance induction	 	2.010E-4	3.919E-1	1.823E-3	1.486E-2	3	47	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0010628	positive regulation of gene expression	 	2.022E-4	3.943E-1	1.826E-3	1.488E-2	12	1512	S100A10,HLA-A,HLA-B,HLA-C,GAPDH,HLA-DPB1,RPS3A,ANXA2,RPS4X,B2M,ACTG1,CD74
+GO: Biological Process	GO:2001200	positive regulation of dendritic cell differentiation	 	2.046E-4	3.990E-1	1.839E-3	1.499E-2	2	9	LGALS1,LGALS3
+GO: Biological Process	GO:0002323	natural killer cell activation involved in immune response	 	2.140E-4	4.173E-1	1.905E-3	1.553E-2	3	48	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002438	acute inflammatory response to antigenic stimulus	 	2.140E-4	4.173E-1	1.905E-3	1.553E-2	3	48	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0045824	negative regulation of innate immune response	 	2.234E-4	4.356E-1	1.980E-3	1.614E-2	4	123	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0032816	positive regulation of natural killer cell activation	 	2.276E-4	4.437E-1	1.999E-3	1.630E-2	3	49	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0009595	detection of biotic stimulus	 	2.276E-4	4.437E-1	1.999E-3	1.630E-2	3	49	HLA-A,HLA-B,HLA-DRB1
+GO: Biological Process	GO:0006364	rRNA processing	 	2.359E-4	4.600E-1	2.063E-3	1.682E-2	5	231	RPL35A,RPS6,RPS14,RPS25,RPS27
+GO: Biological Process	GO:0002710	negative regulation of T cell mediated immunity	 	2.417E-4	4.712E-1	2.104E-3	1.715E-2	3	50	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0010756	positive regulation of plasminogen activation	 	2.554E-4	4.980E-1	2.204E-3	1.797E-2	2	10	S100A10,ANXA2
+GO: Biological Process	GO:1900122	positive regulation of receptor binding	 	2.554E-4	4.980E-1	2.204E-3	1.797E-2	2	10	ANXA2,B2M
+GO: Biological Process	GO:0002706	regulation of lymphocyte mediated immunity	 	2.604E-4	5.078E-1	2.237E-3	1.824E-2	5	236	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0002675	positive regulation of acute inflammatory response	 	2.716E-4	5.295E-1	2.302E-3	1.877E-2	3	52	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:1903306	negative regulation of regulated secretory pathway	 	2.716E-4	5.295E-1	2.302E-3	1.877E-2	3	52	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0001911	negative regulation of leukocyte mediated cytotoxicity	 	2.716E-4	5.295E-1	2.302E-3	1.877E-2	3	52	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002697	regulation of immune effector process	 	2.770E-4	5.402E-1	2.339E-3	1.907E-2	7	532	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,CD74,LGALS3
+GO: Biological Process	GO:0002699	positive regulation of immune effector process	 	2.830E-4	5.519E-1	2.358E-3	1.923E-2	6	376	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	 	2.842E-4	5.542E-1	2.358E-3	1.923E-2	4	131	RPL39,GAPDH,B2M,LGALS3
+GO: Biological Process	GO:0043149	stress fiber assembly	 	2.842E-4	5.542E-1	2.358E-3	1.923E-2	4	131	S100A10,ACTG1,PFN1,ITGB1
+GO: Biological Process	GO:0030038	contractile actin filament bundle assembly	 	2.842E-4	5.542E-1	2.358E-3	1.923E-2	4	131	S100A10,ACTG1,PFN1,ITGB1
+GO: Biological Process	GO:0002443	leukocyte mediated immunity	 	2.867E-4	5.590E-1	2.369E-3	1.931E-2	7	535	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0042060	wound healing	 	3.136E-4	6.115E-1	2.578E-3	2.102E-2	7	543	S100A10,CLIC1,ANXA2,ACTB,ACTG1,HBB,ITGB1
+GO: Biological Process	GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	 	3.153E-4	6.148E-1	2.578E-3	2.102E-2	5	246	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0045087	innate immune response	 	3.160E-4	6.161E-1	2.578E-3	2.102E-2	10	1128	RPL39,HLA-A,HLA-B,HLA-C,GAPDH,HLA-DRB1,B2M,ACTG1,CD74,LGALS3
+GO: Biological Process	GO:0050727	regulation of inflammatory response	 	3.206E-4	6.252E-1	2.605E-3	2.124E-2	7	545	HLA-A,HLA-B,HLA-C,HLA-DRB1,TMSB4X,CD74,LGALS1
+GO: Biological Process	GO:0046641	positive regulation of alpha-beta T cell proliferation	 	3.383E-4	6.597E-1	2.736E-3	2.231E-2	3	56	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:1902107	positive regulation of leukocyte differentiation	 	3.395E-4	6.621E-1	2.736E-3	2.231E-2	5	250	HLA-DRB1,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0048145	regulation of fibroblast proliferation	 	3.465E-4	6.757E-1	2.781E-3	2.267E-2	4	138	S100A6,RPS3A,ANXA2,CD74
+GO: Biological Process	GO:0002700	regulation of production of molecular mediator of immune response	 	3.522E-4	6.867E-1	2.803E-3	2.285E-2	5	252	HLA-A,HLA-B,HLA-C,B2M,CD74
+GO: Biological Process	GO:1903708	positive regulation of hemopoiesis	 	3.522E-4	6.867E-1	2.803E-3	2.285E-2	5	252	HLA-DRB1,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0036037	CD8-positive, alpha-beta T cell activation	 	3.565E-4	6.952E-1	2.826E-3	2.304E-2	3	57	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0080134	regulation of response to stress	 	3.608E-4	7.036E-1	2.849E-3	2.323E-2	13	1858	HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,B2M,ACTB,ACTG1,TMSB4X,CD74,HBB,ITGB1,LGALS1
+GO: Biological Process	GO:0022618	protein-RNA complex assembly	 	3.718E-4	7.250E-1	2.913E-3	2.375E-2	5	255	RPS5,RPS6,RPS14,RPS25,RPS27
+GO: Biological Process	GO:0042989	sequestering of actin monomers	 	3.734E-4	7.282E-1	2.913E-3	2.375E-2	2	12	TMSB4X,PFN1
+GO: Biological Process	GO:0045657	positive regulation of monocyte differentiation	 	3.734E-4	7.282E-1	2.913E-3	2.375E-2	2	12	HLA-DRB1,CD74
+GO: Biological Process	GO:0044403	biological process involved in symbiotic interaction	 	4.095E-4	7.985E-1	3.181E-3	2.594E-2	6	403	GAPDH,ANXA2,HLA-DRB1,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:0031342	negative regulation of cell killing	 	4.148E-4	8.089E-1	3.203E-3	2.611E-2	3	60	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0030098	lymphocyte differentiation	 	4.155E-4	8.103E-1	3.203E-3	2.611E-2	7	569	RPS6,HLA-DRB1,B2M,ACTB,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:0071826	protein-RNA complex organization	 	4.281E-4	8.349E-1	3.287E-3	2.680E-2	5	263	RPS5,RPS6,RPS14,RPS25,RPS27
+GO: Biological Process	GO:0001765	membrane raft assembly	 	4.406E-4	8.592E-1	3.370E-3	2.747E-2	2	13	S100A10,ANXA2
+GO: Biological Process	GO:0030100	regulation of endocytosis	 	4.544E-4	8.861E-1	3.440E-3	2.805E-2	6	411	ANXA2,B2M,ACTB,ACTG1,ITGB1,LGALS3
+GO: Biological Process	GO:0002714	positive regulation of B cell mediated immunity	 	4.569E-4	8.909E-1	3.440E-3	2.805E-2	3	62	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002891	positive regulation of immunoglobulin mediated immune response	 	4.569E-4	8.909E-1	3.440E-3	2.805E-2	3	62	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0046596	regulation of viral entry into host cell	 	4.569E-4	8.909E-1	3.440E-3	2.805E-2	3	62	HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0002833	positive regulation of response to biotic stimulus	 	4.968E-4	9.687E-1	3.726E-3	3.038E-2	6	418	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0002701	negative regulation of production of molecular mediator of immune response	 	5.016E-4	9.781E-1	3.733E-3	3.044E-2	3	64	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0097028	dendritic cell differentiation	 	5.016E-4	9.781E-1	3.733E-3	3.044E-2	3	64	HLA-B,LGALS1,LGALS3
+GO: Biological Process	GO:0042102	positive regulation of T cell proliferation	 	5.247E-4	1.000E0	3.878E-3	3.162E-2	4	154	HLA-A,HLA-B,HLA-C,HLA-DPB1
+GO: Biological Process	GO:0045920	negative regulation of exocytosis	 	5.250E-4	1.000E0	3.878E-3	3.162E-2	3	65	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0017157	regulation of exocytosis	 	5.510E-4	1.000E0	4.054E-3	3.306E-2	5	278	S100A10,HLA-A,HLA-B,HLA-C,ANXA2
+GO: Biological Process	GO:0007596	blood coagulation	 	5.600E-4	1.000E0	4.090E-3	3.335E-2	5	279	CLIC1,ANXA2,ACTB,ACTG1,HBB
+GO: Biological Process	GO:0016072	rRNA metabolic process	 	5.600E-4	1.000E0	4.090E-3	3.335E-2	5	279	RPL35A,RPS6,RPS14,RPS25,RPS27
+GO: Biological Process	GO:0046634	regulation of alpha-beta T cell activation	 	5.643E-4	1.000E0	4.106E-3	3.347E-2	4	157	HLA-A,HLA-B,HLA-C,HLA-DRB1
+GO: Biological Process	GO:0051707	response to other organism	 	5.782E-4	1.000E0	4.191E-3	3.417E-2	13	1951	S100A6,CD52,RPL39,HLA-A,HLA-B,HLA-C,GAPDH,HLA-DRB1,B2M,ACTG1,CD74,HBA2,LGALS3
+GO: Biological Process	GO:0043207	response to external biotic stimulus	 	5.896E-4	1.000E0	4.255E-3	3.469E-2	13	1955	S100A6,CD52,RPL39,HLA-A,HLA-B,HLA-C,GAPDH,HLA-DRB1,B2M,ACTG1,CD74,HBA2,LGALS3
+GO: Biological Process	GO:0002424	T cell mediated immune response to tumor cell	 	5.913E-4	1.000E0	4.255E-3	3.469E-2	2	15	HLA-A,HLA-DRB1
+GO: Biological Process	GO:0043122	regulation of canonical NF-kappaB signal transduction	 	5.973E-4	1.000E0	4.282E-3	3.491E-2	5	283	S100A4,GAPDH,HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0002286	T cell activation involved in immune response	 	6.058E-4	1.000E0	4.327E-3	3.528E-2	4	160	RPS6,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0001819	positive regulation of cytokine production	 	6.108E-4	1.000E0	4.347E-3	3.544E-2	7	607	HLA-A,HLA-B,HLA-C,GAPDH,HLA-DPB1,B2M,CD74
+GO: Biological Process	GO:0048144	fibroblast proliferation	 	6.202E-4	1.000E0	4.394E-3	3.583E-2	4	161	S100A6,RPS3A,ANXA2,CD74
+GO: Biological Process	GO:0052372	modulation by symbiont of entry into host	 	6.255E-4	1.000E0	4.394E-3	3.583E-2	3	69	HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0007599	hemostasis	 	6.264E-4	1.000E0	4.394E-3	3.583E-2	5	286	CLIC1,ANXA2,ACTB,ACTG1,HBB
+GO: Biological Process	GO:0050817	coagulation	 	6.264E-4	1.000E0	4.394E-3	3.583E-2	5	286	CLIC1,ANXA2,ACTB,ACTG1,HBB
+GO: Biological Process	GO:0002684	positive regulation of immune system process	 	6.460E-4	1.000E0	4.515E-3	3.681E-2	10	1235	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0019755	one-carbon compound transport	 	6.524E-4	1.000E0	4.543E-3	3.704E-2	3	70	HBA1,HBA2,HBB
+GO: Biological Process	GO:0031032	actomyosin structure organization	 	6.774E-4	1.000E0	4.701E-3	3.833E-2	5	291	S100A10,RTKN2,ACTG1,PFN1,ITGB1
+GO: Biological Process	GO:1902105	regulation of leukocyte differentiation	 	6.818E-4	1.000E0	4.715E-3	3.844E-2	6	444	HLA-B,HLA-DRB1,ACTB,CD74,LGALS1,LGALS3
+GO: Biological Process	GO:0002683	negative regulation of immune system process	 	6.857E-4	1.000E0	4.724E-3	3.852E-2	7	619	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,CD74,LGALS3
+GO: Biological Process	GO:0042743	hydrogen peroxide metabolic process	 	7.083E-4	1.000E0	4.864E-3	3.965E-2	3	72	HBA1,HBA2,HBB
+GO: Biological Process	GO:0009607	response to biotic stimulus	 	7.252E-4	1.000E0	4.962E-3	4.045E-2	13	1998	S100A6,CD52,RPL39,HLA-A,HLA-B,HLA-C,GAPDH,HLA-DRB1,B2M,ACTG1,CD74,HBA2,LGALS3
+GO: Biological Process	GO:0043009	chordate embryonic development	 	7.318E-4	1.000E0	4.990E-3	4.068E-2	10	1255	RPL35A,RPLP2,RPS3A,RPS4X,RPS14,RPS29,HBA2,PFN1,ITGB1,RPL13
+GO: Biological Process	GO:0030168	platelet activation	 	7.602E-4	1.000E0	5.165E-3	4.211E-2	4	170	CLIC1,ACTB,ACTG1,HBB
+GO: Biological Process	GO:0001817	regulation of cytokine production	 	7.705E-4	1.000E0	5.217E-3	4.254E-2	9	1038	HLA-A,HLA-B,HLA-C,GAPDH,HLA-DPB1,HLA-DRB1,B2M,TMSB4X,CD74
+GO: Biological Process	GO:0002698	negative regulation of immune effector process	 	7.942E-4	1.000E0	5.347E-3	4.359E-2	4	172	HLA-A,HLA-B,HLA-C,LGALS3
+GO: Biological Process	GO:0050778	positive regulation of immune response	 	7.970E-4	1.000E0	5.347E-3	4.359E-2	8	831	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74,LGALS3
+GO: Biological Process	GO:0032814	regulation of natural killer cell activation	 	7.979E-4	1.000E0	5.347E-3	4.359E-2	3	75	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0050852	T cell receptor signaling pathway	 	8.115E-4	1.000E0	5.419E-3	4.418E-2	4	173	HLA-A,HLA-DPB1,HLA-DRB1,LGALS3
+GO: Biological Process	GO:1903900	regulation of viral life cycle	 	8.291E-4	1.000E0	5.500E-3	4.484E-2	4	174	ANXA2,HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:1903307	positive regulation of regulated secretory pathway	 	8.293E-4	1.000E0	5.500E-3	4.484E-2	3	76	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0009792	embryo development ending in birth or egg hatching	 	8.421E-4	1.000E0	5.566E-3	4.538E-2	10	1278	RPL35A,RPLP2,RPS3A,RPS4X,RPS14,RPS29,HBA2,PFN1,ITGB1,RPL13
+GO: Biological Process	GO:0046640	regulation of alpha-beta T cell proliferation	 	8.614E-4	1.000E0	5.675E-3	4.627E-2	3	77	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002832	negative regulation of response to biotic stimulus	 	8.836E-4	1.000E0	5.802E-3	4.730E-2	4	177	HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0002673	regulation of acute inflammatory response	 	8.944E-4	1.000E0	5.852E-3	4.772E-2	3	78	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0034341	response to type II interferon	 	9.023E-4	1.000E0	5.885E-3	4.798E-2	4	178	GAPDH,HLA-DRB1,ACTG1,CD74
+GO: Biological Process	GO:0043903	regulation of biological process involved in symbiotic interaction	 	9.281E-4	1.000E0	6.033E-3	4.918E-2	3	79	HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0002703	regulation of leukocyte mediated immunity	 	9.803E-4	1.000E0	6.351E-3	5.178E-2	5	316	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0042269	regulation of natural killer cell mediated cytotoxicity	 	9.980E-4	1.000E0	6.436E-3	5.248E-2	3	81	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0007043	cell-cell junction assembly	 	1.000E-3	1.000E0	6.436E-3	5.248E-2	4	183	RPS6,ACTB,ACTG1,ITGB1
+GO: Biological Process	GO:0002823	negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	 	1.034E-3	1.000E0	6.633E-3	5.408E-2	3	82	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0010755	regulation of plasminogen activation	 	1.062E-3	1.000E0	6.781E-3	5.529E-2	2	20	S100A10,ANXA2
+GO: Biological Process	GO:0046633	alpha-beta T cell proliferation	 	1.071E-3	1.000E0	6.781E-3	5.529E-2	3	83	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002639	positive regulation of immunoglobulin production	 	1.071E-3	1.000E0	6.781E-3	5.529E-2	3	83	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0043300	regulation of leukocyte degranulation	 	1.071E-3	1.000E0	6.781E-3	5.529E-2	3	83	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002715	regulation of natural killer cell mediated immunity	 	1.109E-3	1.000E0	6.997E-3	5.705E-2	3	84	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0051046	regulation of secretion	 	1.171E-3	1.000E0	7.347E-3	5.990E-2	8	882	S100A10,HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:1903729	regulation of plasma membrane organization	 	1.172E-3	1.000E0	7.347E-3	5.990E-2	2	21	S100A10,ANXA2
+GO: Biological Process	GO:0046718	viral entry into host cell	 	1.195E-3	1.000E0	7.466E-3	6.087E-2	4	192	HLA-DRB1,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:0007249	canonical NF-kappaB signal transduction	 	1.205E-3	1.000E0	7.506E-3	6.120E-2	5	331	S100A4,GAPDH,HLA-DRB1,CD74,LGALS1
+GO: Biological Process	GO:0002820	negative regulation of adaptive immune response	 	1.227E-3	1.000E0	7.621E-3	6.214E-2	3	87	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0001816	cytokine production	 	1.238E-3	1.000E0	7.662E-3	6.247E-2	9	1110	HLA-A,HLA-B,HLA-C,GAPDH,HLA-DPB1,HLA-DRB1,B2M,TMSB4X,CD74
+GO: Biological Process	GO:0002712	regulation of B cell mediated immunity	 	1.268E-3	1.000E0	7.802E-3	6.361E-2	3	88	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002889	regulation of immunoglobulin mediated immune response	 	1.268E-3	1.000E0	7.802E-3	6.361E-2	3	88	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0045655	regulation of monocyte differentiation	 	1.287E-3	1.000E0	7.891E-3	6.434E-2	2	22	HLA-DRB1,CD74
+GO: Biological Process	GO:0002707	negative regulation of lymphocyte mediated immunity	 	1.310E-3	1.000E0	8.010E-3	6.531E-2	3	89	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0072659	protein localization to plasma membrane	 	1.357E-3	1.000E0	8.267E-3	6.740E-2	5	340	S100A10,ANXA2,ACTB,ITGB1,LGALS3
+GO: Biological Process	GO:0044409	entry into host	 	1.388E-3	1.000E0	8.408E-3	6.855E-2	4	200	HLA-DRB1,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:0051017	actin filament bundle assembly	 	1.388E-3	1.000E0	8.408E-3	6.855E-2	4	200	S100A10,ACTG1,PFN1,ITGB1
+GO: Biological Process	GO:0002381	immunoglobulin production involved in immunoglobulin-mediated immune response	 	1.397E-3	1.000E0	8.408E-3	6.855E-2	3	91	HLA-DPB1,HLA-DRB1,B2M
+GO: Biological Process	GO:0120192	tight junction assembly	 	1.397E-3	1.000E0	8.408E-3	6.855E-2	3	91	RPS6,ACTG1,ITGB1
+GO: Biological Process	GO:0002468	dendritic cell antigen processing and presentation	 	1.407E-3	1.000E0	8.423E-3	6.867E-2	2	23	HLA-DRB1,CD74
+GO: Biological Process	GO:0016032	viral process	 	1.408E-3	1.000E0	8.423E-3	6.867E-2	6	511	ANXA2,HLA-DRB1,CD74,PFN1,ITGB1,LGALS1
+GO: Biological Process	GO:0002886	regulation of myeloid leukocyte mediated immunity	 	1.442E-3	1.000E0	8.597E-3	7.009E-2	3	92	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0061572	actin filament bundle organization	 	1.548E-3	1.000E0	9.200E-3	7.501E-2	4	206	S100A10,ACTG1,PFN1,ITGB1
+GO: Biological Process	GO:0065003	protein-containing complex assembly	 	1.582E-3	1.000E0	9.378E-3	7.646E-2	12	1901	HLA-DPB1,RPS5,RPS6,HLA-DRB1,B2M,RPS14,TMSB4X,CD74,RPS25,RPS27,PFN1,LGALS3
+GO: Biological Process	GO:0120193	tight junction organization	 	1.678E-3	1.000E0	9.917E-3	8.086E-2	3	97	RPS6,ACTG1,ITGB1
+GO: Biological Process	GO:0032103	positive regulation of response to external stimulus	 	1.826E-3	1.000E0	1.076E-2	8.769E-2	7	733	HLA-A,HLA-B,HLA-C,B2M,TMSB4X,CD74,LGALS1
+GO: Biological Process	GO:0045597	positive regulation of cell differentiation	 	1.925E-3	1.000E0	1.129E-2	9.209E-2	9	1183	CLIC1,HLA-DRB1,ACTB,TMSB4X,CD74,HBB,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0002704	negative regulation of leukocyte mediated immunity	 	1.938E-3	1.000E0	1.129E-2	9.209E-2	3	102	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0002726	positive regulation of T cell cytokine production	 	1.940E-3	1.000E0	1.129E-2	9.209E-2	2	27	HLA-A,B2M
+GO: Biological Process	GO:0150105	protein localization to cell-cell junction	 	1.940E-3	1.000E0	1.129E-2	9.209E-2	2	27	ACTB,ACTG1
+GO: Biological Process	GO:0098542	defense response to other organism	 	2.128E-3	1.000E0	1.235E-2	1.007E-1	10	1445	RPL39,HLA-A,HLA-B,HLA-C,GAPDH,HLA-DRB1,B2M,ACTG1,CD74,LGALS3
+GO: Biological Process	GO:0044000	movement in host	 	2.205E-3	1.000E0	1.276E-2	1.040E-1	4	227	HLA-DRB1,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:1900120	regulation of receptor binding	 	2.238E-3	1.000E0	1.289E-2	1.051E-1	2	29	ANXA2,B2M
+GO: Biological Process	GO:0009611	response to wounding	 	2.240E-3	1.000E0	1.289E-2	1.051E-1	7	760	S100A10,CLIC1,ANXA2,ACTB,ACTG1,HBB,ITGB1
+GO: Biological Process	GO:0031348	negative regulation of defense response	 	2.284E-3	1.000E0	1.310E-2	1.068E-1	5	383	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M
+GO: Biological Process	GO:0019058	viral life cycle	 	2.336E-3	1.000E0	1.331E-2	1.085E-1	5	385	ANXA2,HLA-DRB1,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:0045089	positive regulation of innate immune response	 	2.336E-3	1.000E0	1.331E-2	1.085E-1	5	385	HLA-A,HLA-B,HLA-C,B2M,CD74
+GO: Biological Process	GO:0051492	regulation of stress fiber assembly	 	2.342E-3	1.000E0	1.331E-2	1.085E-1	3	109	S100A10,ACTG1,PFN1
+GO: Biological Process	GO:0031349	positive regulation of defense response	 	2.379E-3	1.000E0	1.345E-2	1.096E-1	6	567	HLA-A,HLA-B,HLA-C,B2M,CD74,LGALS1
+GO: Biological Process	GO:0031639	plasminogen activation	 	2.394E-3	1.000E0	1.345E-2	1.096E-1	2	30	S100A10,ANXA2
+GO: Biological Process	GO:0031579	membrane raft organization	 	2.394E-3	1.000E0	1.345E-2	1.096E-1	2	30	S100A10,ANXA2
+GO: Biological Process	GO:0098869	cellular oxidant detoxification	 	2.403E-3	1.000E0	1.345E-2	1.096E-1	3	110	HBA1,HBA2,HBB
+GO: Biological Process	GO:0051623	positive regulation of norepinephrine uptake	 	2.427E-3	1.000E0	1.345E-2	1.096E-1	1	1	ACTB
+GO: Biological Process	GO:0072749	cellular response to cytochalasin B	 	2.427E-3	1.000E0	1.345E-2	1.096E-1	1	1	ACTB
+GO: Biological Process	GO:1901328	response to cytochalasin B	 	2.427E-3	1.000E0	1.345E-2	1.096E-1	1	1	ACTB
+GO: Biological Process	GO:0099561	synaptic membrane adhesion to extracellular matrix	 	2.427E-3	1.000E0	1.345E-2	1.096E-1	1	1	ITGB1
+GO: Biological Process	GO:0034120	positive regulation of erythrocyte aggregation	 	2.427E-3	1.000E0	1.345E-2	1.096E-1	1	1	LGALS1
+GO: Biological Process	GO:0042267	natural killer cell mediated cytotoxicity	 	2.529E-3	1.000E0	1.397E-2	1.139E-1	3	112	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:1900242	regulation of synaptic vesicle endocytosis	 	2.555E-3	1.000E0	1.407E-2	1.147E-1	2	31	ACTB,ACTG1
+GO: Biological Process	GO:0032102	negative regulation of response to external stimulus	 	2.573E-3	1.000E0	1.411E-2	1.151E-1	6	576	HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,B2M
+GO: Biological Process	GO:0046631	alpha-beta T cell activation	 	2.576E-3	1.000E0	1.411E-2	1.151E-1	4	237	HLA-A,HLA-B,HLA-C,HLA-DRB1
+GO: Biological Process	GO:0001895	retina homeostasis	 	2.594E-3	1.000E0	1.417E-2	1.155E-1	3	113	B2M,ACTB,ACTG1
+GO: Biological Process	GO:0098974	postsynaptic actin cytoskeleton organization	 	2.721E-3	1.000E0	1.481E-2	1.207E-1	2	32	ACTB,ACTG1
+GO: Biological Process	GO:0002228	natural killer cell mediated immunity	 	2.726E-3	1.000E0	1.481E-2	1.207E-1	3	115	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0050851	antigen receptor-mediated signaling pathway	 	2.737E-3	1.000E0	1.482E-2	1.209E-1	4	241	HLA-A,HLA-DPB1,HLA-DRB1,LGALS3
+GO: Biological Process	GO:0002637	regulation of immunoglobulin production	 	2.794E-3	1.000E0	1.509E-2	1.230E-1	3	116	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0031347	regulation of defense response	 	2.902E-3	1.000E0	1.563E-2	1.275E-1	8	1019	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,TMSB4X,CD74,LGALS1
+GO: Biological Process	GO:0030217	T cell differentiation	 	2.937E-3	1.000E0	1.578E-2	1.286E-1	5	406	RPS6,HLA-DRB1,B2M,ACTB,CD74
+GO: Biological Process	GO:0006417	regulation of translation	 	3.022E-3	1.000E0	1.619E-2	1.320E-1	6	595	GAPDH,RPS3A,RPS4X,RPS14,RPS23,HBB
+GO: Biological Process	GO:0001778	plasma membrane repair	 	3.249E-3	1.000E0	1.731E-2	1.411E-1	2	35	S100A10,ANXA2
+GO: Biological Process	GO:0099188	postsynaptic cytoskeleton organization	 	3.249E-3	1.000E0	1.731E-2	1.411E-1	2	35	ACTB,ACTG1
+GO: Biological Process	GO:1903530	regulation of secretion by cell	 	3.264E-3	1.000E0	1.734E-2	1.414E-1	7	813	S100A10,HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,LGALS3
+GO: Biological Process	GO:0009617	response to bacterium	 	3.347E-3	1.000E0	1.774E-2	1.446E-1	8	1043	CD52,RPL39,HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,HBA2
+GO: Biological Process	GO:0070633	transepithelial transport	 	3.435E-3	1.000E0	1.815E-2	1.480E-1	2	36	ACTB,ACTG1
+GO: Biological Process	GO:0032231	regulation of actin filament bundle assembly	 	3.449E-3	1.000E0	1.818E-2	1.482E-1	3	125	S100A10,ACTG1,PFN1
+GO: Biological Process	GO:1990778	protein localization to cell periphery	 	3.465E-3	1.000E0	1.821E-2	1.485E-1	5	422	S100A10,ANXA2,ACTB,ITGB1,LGALS3
+GO: Biological Process	GO:0050776	regulation of immune response	 	3.487E-3	1.000E0	1.823E-2	1.486E-1	8	1050	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74,LGALS3
+GO: Biological Process	GO:0002682	regulation of immune system process	 	3.487E-3	1.000E0	1.823E-2	1.486E-1	11	1812	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,ACTB,CD74,HBB,LGALS1,LGALS3
+GO: Biological Process	GO:0033077	T cell differentiation in thymus	 	3.607E-3	1.000E0	1.881E-2	1.533E-1	3	127	RPS6,B2M,CD74
+GO: Biological Process	GO:0010954	positive regulation of protein processing	 	3.625E-3	1.000E0	1.885E-2	1.537E-1	2	37	S100A10,ANXA2
+GO: Biological Process	GO:0010810	regulation of cell-substrate adhesion	 	3.641E-3	1.000E0	1.888E-2	1.539E-1	4	261	S100A10,ACTG1,ITGB1,LGALS1
+GO: Biological Process	GO:0051701	biological process involved in interaction with host	 	3.691E-3	1.000E0	1.909E-2	1.556E-1	4	262	HLA-DRB1,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:0006954	inflammatory response	 	3.715E-3	1.000E0	1.917E-2	1.563E-1	8	1061	HLA-A,HLA-B,HLA-C,HLA-DRB1,TMSB4X,CD74,ITGB1,LGALS1
+GO: Biological Process	GO:0043299	leukocyte degranulation	 	3.769E-3	1.000E0	1.939E-2	1.581E-1	3	129	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0045216	cell-cell junction organization	 	3.792E-3	1.000E0	1.946E-2	1.586E-1	4	264	RPS6,ACTB,ACTG1,ITGB1
+GO: Biological Process	GO:0002831	regulation of response to biotic stimulus	 	3.909E-3	1.000E0	2.001E-2	1.631E-1	6	627	HLA-A,HLA-B,HLA-C,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:1903076	regulation of protein localization to plasma membrane	 	3.935E-3	1.000E0	2.009E-2	1.638E-1	3	131	ACTB,ITGB1,LGALS3
+GO: Biological Process	GO:0110020	regulation of actomyosin structure organization	 	4.019E-3	1.000E0	2.042E-2	1.665E-1	3	132	S100A10,ACTG1,PFN1
+GO: Biological Process	GO:1903319	positive regulation of protein maturation	 	4.021E-3	1.000E0	2.042E-2	1.665E-1	2	39	S100A10,ANXA2
+GO: Biological Process	GO:0002250	adaptive immune response	 	4.116E-3	1.000E0	2.085E-2	1.700E-1	7	848	HLA-A,HLA-B,HLA-C,HLA-DPB1,HLA-DRB1,B2M,CD74
+GO: Biological Process	GO:0010720	positive regulation of cell development	 	4.352E-3	1.000E0	2.199E-2	1.793E-1	6	641	HLA-DRB1,ACTB,CD74,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:1901222	regulation of non-canonical NF-kappaB signal transduction	 	4.460E-3	1.000E0	2.235E-2	1.823E-1	3	137	RTKN2,TMSB4X,CD74
+GO: Biological Process	GO:0045445	myoblast differentiation	 	4.460E-3	1.000E0	2.235E-2	1.823E-1	3	137	ACTB,ITGB1,LGALS1
+GO: Biological Process	GO:0030101	natural killer cell activation	 	4.460E-3	1.000E0	2.235E-2	1.823E-1	3	137	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0042742	defense response to bacterium	 	4.549E-3	1.000E0	2.273E-2	1.853E-1	5	450	RPL39,HLA-A,HLA-B,HLA-C,B2M
+GO: Biological Process	GO:0045639	positive regulation of myeloid cell differentiation	 	4.643E-3	1.000E0	2.273E-2	1.853E-1	3	139	HLA-DRB1,CD74,HBB
+GO: Biological Process	GO:0070227	lymphocyte apoptotic process	 	4.643E-3	1.000E0	2.273E-2	1.853E-1	3	139	RPS6,CD74,LGALS3
+GO: Biological Process	GO:1903421	regulation of synaptic vesicle recycling	 	4.651E-3	1.000E0	2.273E-2	1.853E-1	2	42	ACTB,ACTG1
+GO: Biological Process	GO:0010975	regulation of neuron projection development	 	4.656E-3	1.000E0	2.273E-2	1.853E-1	6	650	HLA-A,HLA-B,HLA-C,B2M,ITGB1,LGALS1
+GO: Biological Process	GO:0006413	translational initiation	 	4.737E-3	1.000E0	2.273E-2	1.853E-1	3	140	RPS3A,RPS5,HBB
+GO: Biological Process	GO:0032760	positive regulation of tumor necrosis factor production	 	4.737E-3	1.000E0	2.273E-2	1.853E-1	3	140	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:1990748	cellular detoxification	 	4.737E-3	1.000E0	2.273E-2	1.853E-1	3	140	HBA1,HBA2,HBB
+GO: Biological Process	GO:0051048	negative regulation of secretion	 	4.789E-3	1.000E0	2.273E-2	1.853E-1	4	282	HLA-A,HLA-B,HLA-C,CD74
+GO: Biological Process	GO:0034470	ncRNA processing	 	4.810E-3	1.000E0	2.273E-2	1.853E-1	5	456	RPL35A,RPS6,RPS14,RPS25,RPS27
+GO: Biological Process	GO:0051621	regulation of norepinephrine uptake	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	ACTB
+GO: Biological Process	GO:0071283	cellular response to iron(III) ion	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	B2M
+GO: Biological Process	GO:1905597	positive regulation of low-density lipoprotein particle receptor binding	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	ANXA2
+GO: Biological Process	GO:1990145	maintenance of translational fidelity	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	RPS23
+GO: Biological Process	GO:0035606	peptidyl-cysteine S-trans-nitrosylation	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	GAPDH
+GO: Biological Process	GO:2000521	negative regulation of immunological synapse formation	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	LGALS3
+GO: Biological Process	GO:2000448	positive regulation of macrophage migration inhibitory factor signaling pathway	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	CD74
+GO: Biological Process	GO:0048626	myoblast fate specification	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	ITGB1
+GO: Biological Process	GO:1904434	positive regulation of ferrous iron binding	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	B2M
+GO: Biological Process	GO:1904432	regulation of ferrous iron binding	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	B2M
+GO: Biological Process	GO:1904437	positive regulation of transferrin receptor binding	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	B2M
+GO: Biological Process	GO:1904435	regulation of transferrin receptor binding	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	B2M
+GO: Biological Process	GO:0051951	positive regulation of glutamate uptake involved in transmission of nerve impulse	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	ITGB1
+GO: Biological Process	GO:0051943	positive regulation of amino acid uptake involved in synaptic transmission	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	ITGB1
+GO: Biological Process	GO:0034118	regulation of erythrocyte aggregation	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	LGALS1
+GO: Biological Process	GO:0034117	erythrocyte aggregation	 	4.837E-3	1.000E0	2.273E-2	1.853E-1	1	2	LGALS1
+GO: Biological Process	GO:0003181	atrioventricular valve morphogenesis	 	4.870E-3	1.000E0	2.283E-2	1.861E-1	2	43	TMSB4X,ITGB1
+GO: Biological Process	GO:0030036	actin cytoskeleton organization	 	4.911E-3	1.000E0	2.297E-2	1.872E-1	7	876	S100A10,RTKN2,ACTB,ACTG1,TMSB4X,PFN1,ITGB1
+GO: Biological Process	GO:0001818	negative regulation of cytokine production	 	4.944E-3	1.000E0	2.306E-2	1.880E-1	5	459	HLA-A,HLA-B,HLA-C,HLA-DRB1,TMSB4X
+GO: Biological Process	GO:0034248	regulation of amide metabolic process	 	5.123E-3	1.000E0	2.379E-2	1.939E-1	6	663	GAPDH,RPS3A,RPS4X,RPS14,RPS23,HBB
+GO: Biological Process	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production	 	5.123E-3	1.000E0	2.379E-2	1.939E-1	3	144	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0006887	exocytosis	 	5.220E-3	1.000E0	2.418E-2	1.971E-1	5	465	S100A10,HLA-A,HLA-B,HLA-C,ANXA2
+GO: Biological Process	GO:0030224	monocyte differentiation	 	5.323E-3	1.000E0	2.460E-2	2.005E-1	2	45	HLA-DRB1,CD74
+GO: Biological Process	GO:0050878	regulation of body fluid levels	 	5.363E-3	1.000E0	2.472E-2	2.016E-1	5	468	CLIC1,ANXA2,ACTB,ACTG1,HBB
+GO: Biological Process	GO:0045582	positive regulation of T cell differentiation	 	5.737E-3	1.000E0	2.639E-2	2.151E-1	3	150	HLA-DRB1,ACTB,CD74
+GO: Biological Process	GO:0032101	regulation of response to external stimulus	 	5.800E-3	1.000E0	2.661E-2	2.170E-1	9	1396	HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,B2M,TMSB4X,CD74,LGALS1
+GO: Biological Process	GO:0097237	cellular response to toxic substance	 	5.844E-3	1.000E0	2.675E-2	2.181E-1	3	151	HBA1,HBA2,HBB
+GO: Biological Process	GO:0051098	regulation of binding	 	5.959E-3	1.000E0	2.721E-2	2.219E-1	5	480	S100A10,ANXA2,B2M,ACTB,TMSB4X
+GO: Biological Process	GO:2000026	regulation of multicellular organismal development	 	5.995E-3	1.000E0	2.731E-2	2.227E-1	11	1946	S100A10,HLA-B,ANXA2,HLA-DRB1,B2M,ACTB,CD74,HBB,ITGB1,LGALS1,LGALS3
+GO: Biological Process	GO:0110053	regulation of actin filament organization	 	6.375E-3	1.000E0	2.898E-2	2.363E-1	4	306	S100A10,ACTG1,TMSB4X,PFN1
+GO: Biological Process	GO:0032649	regulation of type II interferon production	 	6.393E-3	1.000E0	2.899E-2	2.364E-1	3	156	HLA-A,HLA-DPB1,HLA-DRB1
+GO: Biological Process	GO:0045637	regulation of myeloid cell differentiation	 	6.448E-3	1.000E0	2.917E-2	2.379E-1	4	307	HLA-DRB1,B2M,CD74,HBB
+GO: Biological Process	GO:0120035	regulation of plasma membrane bounded cell projection organization	 	6.541E-3	1.000E0	2.952E-2	2.407E-1	7	924	HLA-A,HLA-B,HLA-C,B2M,PFN1,ITGB1,LGALS1
+GO: Biological Process	GO:0045088	regulation of innate immune response	 	6.883E-3	1.000E0	3.100E-2	2.527E-1	5	497	HLA-A,HLA-B,HLA-C,B2M,CD74
+GO: Biological Process	GO:0030335	positive regulation of cell migration	 	6.915E-3	1.000E0	3.100E-2	2.527E-1	6	706	ACTG1,TMSB4X,CD74,PFN1,ITGB1,LGALS3
+GO: Biological Process	GO:0051051	negative regulation of transport	 	6.915E-3	1.000E0	3.100E-2	2.527E-1	6	706	HLA-A,HLA-B,HLA-C,ANXA2,CD74,LGALS3
+GO: Biological Process	GO:1904375	regulation of protein localization to cell periphery	 	7.093E-3	1.000E0	3.154E-2	2.572E-1	3	162	ACTB,ITGB1,LGALS3
+GO: Biological Process	GO:0031344	regulation of cell projection organization	 	7.206E-3	1.000E0	3.154E-2	2.572E-1	7	941	HLA-A,HLA-B,HLA-C,B2M,PFN1,ITGB1,LGALS1
+GO: Biological Process	GO:1905602	positive regulation of receptor-mediated endocytosis involved in cholesterol transport	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	ANXA2
+GO: Biological Process	GO:0031106	septin ring organization	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	RTKN2
+GO: Biological Process	GO:0150054	regulation of postsynaptic neurotransmitter receptor diffusion trapping	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	ITGB1
+GO: Biological Process	GO:1903769	negative regulation of cell proliferation in bone marrow	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	LGALS3
+GO: Biological Process	GO:0035691	macrophage migration inhibitory factor signaling pathway	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	CD74
+GO: Biological Process	GO:0002491	antigen processing and presentation of endogenous peptide antigen via MHC class II	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	HLA-DRB1
+GO: Biological Process	GO:1903614	negative regulation of protein tyrosine phosphatase activity	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	LGALS3
+GO: Biological Process	GO:0014064	positive regulation of serotonin secretion	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	LGALS3
+GO: Biological Process	GO:2000446	regulation of macrophage migration inhibitory factor signaling pathway	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	CD74
+GO: Biological Process	GO:0032804	negative regulation of low-density lipoprotein particle receptor catabolic process	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	ANXA2
+GO: Biological Process	GO:2001189	negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	 	7.247E-3	1.000E0	3.154E-2	2.572E-1	1	3	LGALS3
+GO: Biological Process	GO:0002444	myeloid leukocyte mediated immunity	 	7.583E-3	1.000E0	3.288E-2	2.681E-1	3	166	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:0042789	mRNA transcription by RNA polymerase II	 	7.588E-3	1.000E0	3.288E-2	2.681E-1	2	54	S100A10,ANXA2
+GO: Biological Process	GO:0002526	acute inflammatory response	 	7.709E-3	1.000E0	3.333E-2	2.718E-1	3	167	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:1902533	positive regulation of intracellular signal transduction	 	7.838E-3	1.000E0	3.382E-2	2.757E-1	8	1203	S100A4,RTKN2,GAPDH,HLA-DRB1,CD74,RPS20,ITGB1,LGALS1
+GO: Biological Process	GO:0003171	atrioventricular valve development	 	7.863E-3	1.000E0	3.385E-2	2.759E-1	2	55	TMSB4X,ITGB1
+GO: Biological Process	GO:0042542	response to hydrogen peroxide	 	7.964E-3	1.000E0	3.413E-2	2.783E-1	3	169	HBA1,HBA2,HBB
+GO: Biological Process	GO:0045621	positive regulation of lymphocyte differentiation	 	7.964E-3	1.000E0	3.413E-2	2.783E-1	3	169	HLA-DRB1,ACTB,CD74
+GO: Biological Process	GO:0032609	type II interferon production	 	8.094E-3	1.000E0	3.461E-2	2.822E-1	3	170	HLA-A,HLA-DPB1,HLA-DRB1
+GO: Biological Process	GO:0002418	immune response to tumor cell	 	8.424E-3	1.000E0	3.595E-2	2.931E-1	2	57	HLA-A,HLA-DRB1
+GO: Biological Process	GO:2000147	positive regulation of cell motility	 	8.464E-3	1.000E0	3.604E-2	2.938E-1	6	737	ACTG1,TMSB4X,CD74,PFN1,ITGB1,LGALS3
+GO: Biological Process	GO:0007015	actin filament organization	 	8.484E-3	1.000E0	3.604E-2	2.939E-1	5	523	S100A10,ACTG1,TMSB4X,PFN1,ITGB1
+GO: Biological Process	GO:0007010	cytoskeleton organization	 	8.594E-3	1.000E0	3.643E-2	2.970E-1	10	1759	S100A10,RTKN2,GAPDH,HLA-DRB1,ACTB,ACTG1,TMSB4X,PFN1,ITGB1,SH3BGRL3
+GO: Biological Process	GO:0002757	immune response-activating signaling pathway	 	8.617E-3	1.000E0	3.645E-2	2.972E-1	5	525	HLA-A,HLA-DPB1,HLA-DRB1,B2M,LGALS3
+GO: Biological Process	GO:0030029	actin filament-based process	 	8.686E-3	1.000E0	3.666E-2	2.989E-1	7	975	S100A10,RTKN2,ACTB,ACTG1,TMSB4X,PFN1,ITGB1
+GO: Biological Process	GO:0061041	regulation of wound healing	 	8.759E-3	1.000E0	3.689E-2	3.008E-1	3	175	ANXA2,ACTG1,ITGB1
+GO: Biological Process	GO:0010035	response to inorganic substance	 	9.014E-3	1.000E0	3.788E-2	3.089E-1	6	747	B2M,ACTG1,HBA1,HBA2,HBB,CRIP1
+GO: Biological Process	GO:0009299	mRNA transcription	 	9.600E-3	1.000E0	3.921E-2	3.197E-1	2	61	S100A10,ANXA2
+GO: Biological Process	GO:0051496	positive regulation of stress fiber assembly	 	9.600E-3	1.000E0	3.921E-2	3.197E-1	2	61	S100A10,PFN1
+GO: Biological Process	GO:0006968	cellular defense response	 	9.600E-3	1.000E0	3.921E-2	3.197E-1	2	61	B2M,ITGB1
+GO: Biological Process	GO:0040017	positive regulation of locomotion	 	9.648E-3	1.000E0	3.921E-2	3.197E-1	6	758	ACTG1,TMSB4X,CD74,PFN1,ITGB1,LGALS3
+GO: Biological Process	GO:1905581	positive regulation of low-density lipoprotein particle clearance	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	ANXA2
+GO: Biological Process	GO:2000645	negative regulation of receptor catabolic process	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	ANXA2
+GO: Biological Process	GO:0007161	calcium-independent cell-matrix adhesion	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	ITGB1
+GO: Biological Process	GO:2000978	negative regulation of forebrain neuron differentiation	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	B2M
+GO: Biological Process	GO:0002469	myeloid dendritic cell antigen processing and presentation	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	HLA-DRB1
+GO: Biological Process	GO:0002038	positive regulation of L-glutamate import across plasma membrane	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	ITGB1
+GO: Biological Process	GO:0060741	prostate gland stromal morphogenesis	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	CRIP1
+GO: Biological Process	GO:1905273	positive regulation of proton-transporting ATP synthase activity, rotational mechanism	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	TMSB4X
+GO: Biological Process	GO:1905271	regulation of proton-transporting ATP synthase activity, rotational mechanism	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	TMSB4X
+GO: Biological Process	GO:0010999	regulation of eIF2 alpha phosphorylation by heme	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	HBB
+GO: Biological Process	GO:0051946	regulation of glutamate uptake involved in transmission of nerve impulse	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	ITGB1
+GO: Biological Process	GO:0051941	regulation of amino acid uptake involved in synaptic transmission	 	9.651E-3	1.000E0	3.921E-2	3.197E-1	1	4	ITGB1
+GO: Biological Process	GO:0050868	negative regulation of T cell activation	 	9.744E-3	1.000E0	3.950E-2	3.221E-1	3	182	HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0038061	non-canonical NF-kappaB signal transduction	 	9.890E-3	1.000E0	4.001E-2	3.262E-1	3	183	RTKN2,TMSB4X,CD74
+GO: Biological Process	GO:0034329	cell junction assembly	 	9.953E-3	1.000E0	4.018E-2	3.276E-1	5	544	S100A10,RPS6,ACTB,ACTG1,ITGB1
+GO: Biological Process	GO:0098754	detoxification	 	1.004E-2	1.000E0	4.044E-2	3.297E-1	3	184	HBA1,HBA2,HBB
+GO: Biological Process	GO:0070925	organelle assembly	 	1.018E-2	1.000E0	4.095E-2	3.339E-1	8	1259	RPS5,RPS6,RPS14,ACTG1,RPS23,RPS25,RPS27,ITGB1
+GO: Biological Process	GO:0071887	leukocyte apoptotic process	 	1.049E-2	1.000E0	4.207E-2	3.430E-1	3	187	RPS6,CD74,LGALS3
+GO: Biological Process	GO:0097435	supramolecular fiber organization	 	1.059E-2	1.000E0	4.242E-2	3.459E-1	7	1013	S100A10,ANXA2,B2M,ACTG1,TMSB4X,PFN1,ITGB1
+GO: Biological Process	GO:0016192	vesicle-mediated transport	 	1.089E-2	1.000E0	4.352E-2	3.548E-1	10	1822	S100A10,HLA-A,HLA-B,HLA-C,ANXA2,B2M,ACTB,ACTG1,ITGB1,LGALS3
+GO: Biological Process	GO:0046903	secretion	 	1.104E-2	1.000E0	4.403E-2	3.590E-1	8	1277	S100A10,HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0071709	membrane assembly	 	1.117E-2	1.000E0	4.444E-2	3.623E-1	2	66	S100A10,ANXA2
+GO: Biological Process	GO:0002764	immune response-regulating signaling pathway	 	1.127E-2	1.000E0	4.474E-2	3.648E-1	5	561	HLA-A,HLA-DPB1,HLA-DRB1,B2M,LGALS3
+GO: Biological Process	GO:0002429	immune response-activating cell surface receptor signaling pathway	 	1.156E-2	1.000E0	4.583E-2	3.736E-1	4	364	HLA-A,HLA-DPB1,HLA-DRB1,LGALS3
+GO: Biological Process	GO:0045646	regulation of erythrocyte differentiation	 	1.182E-2	1.000E0	4.644E-2	3.786E-1	2	68	B2M,HBB
+GO: Biological Process	GO:0048839	inner ear development	 	1.200E-2	1.000E0	4.644E-2	3.786E-1	4	368	HLA-A,HLA-B,HLA-C,CD74
+GO: Biological Process	GO:0060912	cardiac cell fate specification	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	ITGB1
+GO: Biological Process	GO:1905595	regulation of low-density lipoprotein particle receptor binding	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	ANXA2
+GO: Biological Process	GO:0021943	formation of radial glial scaffolds	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	ITGB1
+GO: Biological Process	GO:2000520	regulation of immunological synapse formation	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	LGALS3
+GO: Biological Process	GO:0032185	septin cytoskeleton organization	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	RTKN2
+GO: Biological Process	GO:0002481	antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-dependent	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	B2M
+GO: Biological Process	GO:0010041	response to iron(III) ion	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	B2M
+GO: Biological Process	GO:0002901	mature B cell apoptotic process	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	CD74
+GO: Biological Process	GO:0002905	regulation of mature B cell apoptotic process	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	CD74
+GO: Biological Process	GO:0002906	negative regulation of mature B cell apoptotic process	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	CD74
+GO: Biological Process	GO:0032385	positive regulation of intracellular cholesterol transport	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	ANXA2
+GO: Biological Process	GO:0032382	positive regulation of intracellular sterol transport	 	1.205E-2	1.000E0	4.644E-2	3.786E-1	1	5	ANXA2
+GO: Biological Process	GO:0051241	negative regulation of multicellular organismal process	 	1.220E-2	1.000E0	4.691E-2	3.825E-1	9	1571	HLA-A,HLA-B,HLA-C,ANXA2,HLA-DRB1,B2M,TMSB4X,CD74,LGALS3
+GO: Biological Process	GO:0097193	intrinsic apoptotic signaling pathway	 	1.255E-2	1.000E0	4.819E-2	3.929E-1	4	373	RTKN2,CD74,RPS29,CRIP1
+GO: Biological Process	GO:0032233	positive regulation of actin filament bundle assembly	 	1.284E-2	1.000E0	4.918E-2	4.010E-1	2	71	S100A10,PFN1
+GO: Biological Process	GO:1903305	regulation of regulated secretory pathway	 	1.290E-2	1.000E0	4.933E-2	4.022E-1	3	202	HLA-A,HLA-B,HLA-C
+GO: Biological Process	GO:1903038	negative regulation of leukocyte cell-cell adhesion	 	1.307E-2	1.000E0	4.989E-2	4.068E-1	3	203	HLA-DRB1,CD74,LGALS3
+GO: Biological Process	GO:0051893	regulation of focal adhesion assembly	 	1.318E-2	1.000E0	4.992E-2	4.070E-1	2	72	S100A10,ACTG1
+GO: Biological Process	GO:0048260	positive regulation of receptor-mediated endocytosis	 	1.318E-2	1.000E0	4.992E-2	4.070E-1	2	72	ANXA2,B2M
+GO: Biological Process	GO:0090109	regulation of cell-substrate junction assembly	 	1.318E-2	1.000E0	4.992E-2	4.070E-1	2	72	S100A10,ACTG1
+GO: Biological Process	GO:1903078	positive regulation of protein localization to plasma membrane	 	1.318E-2	1.000E0	4.992E-2	4.070E-1	2	72	ITGB1,LGALS3

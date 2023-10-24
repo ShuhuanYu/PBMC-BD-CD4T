@@ -3,6 +3,7 @@
 
 ``{r}
 
+
 cds <- readRDS("./result/monocle3-PBMC_CD4T.rds")
 
 # compare the pseudotime between BD and HC samples
@@ -38,7 +39,8 @@ saveRDS(cds_fate1,"./result/fate1.rds")
 saveRDS(cds_fate2,"./result/fate2.rds")
 
 ### Differential expression analysis ### fate1
-library(monocle)
+
+fate1 <- readRDS("./result/fate1.rds")
 
 expr_matrix <- exprs(fate1)
 pheno_feature <- as.data.frame(colData(fate1))
@@ -54,6 +56,9 @@ pd <- new("AnnotatedDataFrame", data = pheno_feature)
 gene_feature <- data.frame(gene_short_name=rownames(expr_matrix))
 rownames(gene_feature) <- rownames(expr_matrix)
 fd <- new("AnnotatedDataFrame", data = gene_feature)
+
+detach("package:monocle3")
+library(monocle)
 monocle2.fate1.object <- newCellDataSet(as.matrix(expr_matrix),phenoData = pd,featureData = fd)
 
 monocle2.fate1.object <- estimateSizeFactors(monocle2.fate1.object)
@@ -64,6 +69,10 @@ sig_genes_all <- subset(diff_test_res, qval < 0.1)
 sig_genes_all <- sig_genes_all[order(sig_genes_all$qval,decreasing = F),]
 sig_gene_names <- row.names(sig_genes_all[1:20,])
 # sig_gene_names <- row.names(subset(diff_test_res, qval < 0.1))
+enrichment_genes_fate1 <- data.frame(symbol=row.names(sig_genes_all[1:50,]))
+
+write.table(enrichment_genes_fate1,"./result/enrichment_genes_fate1.txt",row.names = F,quote = F)
+saveRDS(monocle2.fate1.object,"./result/monocle2.fate1.object.rds")
 
 library(pheatmap)
 library(colorRamps)
@@ -118,6 +127,9 @@ ph_res <- pheatmap(heatmap_matrix[, ], useRaster = T, cluster_cols = FALSE,
 ggsave("./result/Plots/fate1-pseudotime-heatmap.pdf",ph_res)
 
 ### fate2
+
+fate2 <- readRDS("./result/fate2.rds")
+
 expr_matrix <- exprs(fate2)
 pheno_feature <- as.data.frame(colData(fate2))
 pheno_feature$Cluster <- pheno_feature$subtype
@@ -132,6 +144,9 @@ pd <- new("AnnotatedDataFrame", data = pheno_feature)
 gene_feature <- data.frame(gene_short_name=rownames(expr_matrix))
 rownames(gene_feature) <- rownames(expr_matrix)
 fd <- new("AnnotatedDataFrame", data = gene_feature)
+
+detach("package:monocle3")
+library(monocle)
 monocle2.fate2.object <- newCellDataSet(as.matrix(expr_matrix),phenoData = pd,featureData = fd)
 
 monocle2.fate2.object <- estimateSizeFactors(monocle2.fate2.object)
@@ -142,6 +157,10 @@ sig_genes_all <- subset(diff_test_res, qval < 0.1)
 sig_genes_all <- sig_genes_all[order(sig_genes_all$qval,decreasing = F),]
 sig_gene_names <- row.names(sig_genes_all[1:20,])
 # sig_gene_names <- row.names(subset(diff_test_res, qval < 0.1))
+enrichment_genes_fate2 <- row.names(sig_genes_all[1:50,])
+
+write.table(enrichment_genes_fate2,"./result/enrichment_genes_fate2.txt",row.names = F,quote = F)
+saveRDS(monocle2.fate2.object,"./result/monocle2.fate2.object.rds")
 
 library(pheatmap)
 library(colorRamps)
@@ -194,5 +213,39 @@ ph_res <- pheatmap(heatmap_matrix[, ], useRaster = T, cluster_cols = FALSE,
 # grid::grid.draw(ph_res$gtable)
 
 ggsave("./result/Plots/fate2-pseudotime-heatmap.pdf",ph_res)
+
+### GO enrichment ###
+go_enrichment <- function(genelist){
+       library(clusterProfiler)
+       library(org.Hs.eg.db)
+
+       genelist = genelist$symbol
+       ego = enrichGO(gene          = genelist,
+                OrgDb         = org.Hs.eg.db,
+                ont           = "BP",
+                pAdjustMethod = "BH",
+                pvalueCutoff  = 0.01,
+                qvalueCutoff  = 0.05,
+                keyType = "SYMBOL",
+                readable      = TRUE)
+       return(ego)
+}
+library(ggplot2)
+
+enrichment_genes_fate1 <- read.table("./result/enrichment_genes_fate1.txt",header = T)
+ego1 <- go_enrichment(enrichment_genes_fate1)
+p1 <- clusterProfiler::dotplot(ego1,showCategory = 5) + ggtitle("fate1")
+
+enrichment_genes_fate2 <- read.table("./result/enrichment_genes_fate2.txt",header = T)
+ego2 <- go_enrichment(enrichment_genes_fate2)
+p2 <- clusterProfiler::dotplot(ego2,showCategory = 5) + ggtitle("fate2")
+
+library(xlsx)
+write.xlsx(ego1,"./result/fate1_fate2_GO_enrichment_all_result.xlsx",sheetName = "fate1")
+write.xlsx(ego2,"./result/fate1_fate2_GO_enrichment_all_result.xlsx",sheetName = "fate2",append = TRUE)
+
+ggsave("./result/Plots/fate1_fate2_GO_enrichment-top5.pdf",p1+p2,width=10,height=6)
+
+### ###
 
 ``

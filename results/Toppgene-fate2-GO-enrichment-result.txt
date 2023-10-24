@@ -1,0 +1,422 @@
+Category	ID	Name	Source	p-value	q-value Bonferroni	q-value FDR B&H	q-value FDR B&Y	Hit Count in Query List	Hit Count in Genome	Hit in Query List
+GO: Biological Process	GO:0002684	positive regulation of immune system process	 	1.689E-11	3.705E-8	3.705E-8	3.064E-7	19	1235	SELL,CD27,ANXA1,TNFSF13B,B2M,MYO1F,FOXP1,RPS19,TNFRSF18,CCR6,CCR7,FYB1,LEF1,KLRB1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0002682	regulation of immune system process	 	2.015E-10	4.420E-7	2.210E-7	1.828E-6	21	1812	SELL,CD27,ANXA1,TNFSF13B,B2M,MYO1F,FOXP1,RPS19,TNFRSF18,CCR6,CCR7,LYAR,FYB1,LEF1,CTSH,KLRB1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0002252	immune effector process	 	5.457E-10	1.197E-6	3.991E-7	3.301E-6	15	842	CD27,ANXA1,B2M,MYO1F,FOXP1,RPS19,CCR6,CCR7,LEF1,CTSH,KLRB1,LGALS1,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0001775	cell activation	 	1.410E-9	3.094E-6	7.734E-7	6.397E-6	18	1410	TIMP1,CD27,ANXA1,TNFSF13B,B2M,MYO1F,FOXP1,CCR6,CCR7,ACTN1,FYB1,LEF1,KLRB1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0042981	regulation of apoptotic process	 	5.026E-9	1.103E-5	1.611E-6	1.332E-5	20	1939	SELL,TIMP1,CD27,ANXA1,FOXP1,TNFRSF18,LTB,CCR7,ACTN1,PTGER2,LEF1,CTSH,YWHAH,LGALS1,IL6ST,RPL10,LGALS3,IL7R,EEF1A1,TNFRSF4
+GO: Biological Process	GO:0007155	cell adhesion	 	5.372E-9	1.179E-5	1.611E-6	1.332E-5	19	1735	SELL,S100A10,S100A11,IL32,CD27,ANXA1,ANXA2,TNFSF13B,B2M,MYO1F,TNFRSF18,RPSA,CCR7,ACTN1,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0030097	hemopoiesis	 	5.375E-9	1.179E-5	1.611E-6	1.332E-5	18	1534	RPLP1,CD27,ANXA1,ANXA2,TNFSF13B,B2M,TMSB4X,FOXP1,RPS19,CCR6,CCR7,ACTN1,RPS27,LYAR,LEF1,LGALS1,LGALS3,IL7R
+GO: Biological Process	GO:0030335	positive regulation of cell migration	 	6.596E-9	1.447E-5	1.611E-6	1.332E-5	13	706	SELL,S100A11,ANXA1,MYO1F,TMSB4X,FOXP1,TNFRSF18,CCR6,CCR7,LEF1,CTSH,IL6ST,LGALS3
+GO: Biological Process	GO:0060284	regulation of cell development	 	6.608E-9	1.450E-5	1.611E-6	1.332E-5	16	1181	VIM,S100A10,CD27,ANXA1,ANXA2,B2M,FOXP1,RPS19,CCR6,CCR7,LEF1,YWHAH,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0042110	T cell activation	 	7.931E-9	1.740E-5	1.663E-6	1.375E-5	13	717	CD27,ANXA1,TNFSF13B,B2M,FOXP1,CCR6,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0043067	regulation of programmed cell death	 	8.495E-9	1.864E-5	1.663E-6	1.375E-5	20	1999	SELL,TIMP1,CD27,ANXA1,FOXP1,TNFRSF18,LTB,CCR7,ACTN1,PTGER2,LEF1,CTSH,YWHAH,LGALS1,IL6ST,RPL10,LGALS3,IL7R,EEF1A1,TNFRSF4
+GO: Biological Process	GO:0050863	regulation of T cell activation	 	9.880E-9	2.168E-5	1.663E-6	1.375E-5	11	469	CD27,ANXA1,TNFSF13B,B2M,CCR6,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0050776	regulation of immune response	 	1.099E-8	2.412E-5	1.663E-6	1.375E-5	15	1050	ANXA1,TNFSF13B,B2M,MYO1F,FOXP1,RPS19,CCR6,CCR7,LYAR,FYB1,CTSH,KLRB1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:2000147	positive regulation of cell motility	 	1.100E-8	2.414E-5	1.663E-6	1.375E-5	13	737	SELL,S100A11,ANXA1,MYO1F,TMSB4X,FOXP1,TNFRSF18,CCR6,CCR7,LEF1,CTSH,IL6ST,LGALS3
+GO: Biological Process	GO:0045321	leukocyte activation	 	1.137E-8	2.494E-5	1.663E-6	1.375E-5	16	1227	CD27,ANXA1,TNFSF13B,B2M,MYO1F,FOXP1,CCR6,CCR7,FYB1,LEF1,KLRB1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0040017	positive regulation of locomotion	 	1.535E-8	3.369E-5	2.087E-6	1.726E-5	13	758	SELL,S100A11,ANXA1,MYO1F,TMSB4X,FOXP1,TNFRSF18,CCR6,CCR7,LEF1,CTSH,IL6ST,LGALS3
+GO: Biological Process	GO:0007159	leukocyte cell-cell adhesion	 	1.617E-8	3.548E-5	2.087E-6	1.726E-5	11	492	SELL,CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0030334	regulation of cell migration	 	1.769E-8	3.880E-5	2.156E-6	1.783E-5	16	1266	SELL,VIM,S100A11,TIMP1,ANXA1,MYO1F,TMSB4X,FOXP1,TMSB10,TNFRSF18,CCR6,CCR7,LEF1,CTSH,IL6ST,LGALS3
+GO: Biological Process	GO:0051249	regulation of lymphocyte activation	 	2.065E-8	4.531E-5	2.385E-6	1.972E-5	12	634	CD27,ANXA1,TNFSF13B,B2M,CCR6,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0098609	cell-cell adhesion	 	2.365E-8	5.189E-5	2.594E-6	2.146E-5	15	1112	SELL,S100A11,CD27,ANXA1,ANXA2,TNFSF13B,B2M,RPSA,CCR7,ACTN1,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0034097	response to cytokine	 	2.540E-8	5.574E-5	2.654E-6	2.195E-5	15	1118	SELL,VIM,RPLP0,TIMP1,ANXA1,TNFSF13B,TMSB4X,FOXP1,TNFRSF18,CCR6,CCR7,LEF1,IL6ST,IL7R,TNFRSF4
+GO: Biological Process	GO:0051251	positive regulation of lymphocyte activation	 	3.598E-8	7.893E-5	3.432E-6	2.839E-5	10	411	CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,IL7R,TNFRSF4
+GO: Biological Process	GO:0002697	regulation of immune effector process	 	3.598E-8	7.894E-5	3.432E-6	2.839E-5	11	532	CD27,ANXA1,B2M,FOXP1,RPS19,CCR6,CCR7,KLRB1,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:2000145	regulation of cell motility	 	3.842E-8	8.430E-5	3.512E-6	2.905E-5	16	1338	SELL,VIM,S100A11,TIMP1,ANXA1,MYO1F,TMSB4X,FOXP1,TMSB10,TNFRSF18,CCR6,CCR7,LEF1,CTSH,IL6ST,LGALS3
+GO: Biological Process	GO:0050870	positive regulation of T cell activation	 	4.070E-8	8.930E-5	3.572E-6	2.954E-5	9	309	CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,IL7R
+GO: Biological Process	GO:0048872	homeostasis of number of cells	 	5.048E-8	1.107E-4	4.100E-6	3.391E-5	11	550	RPLP1,ANXA1,TNFSF13B,B2M,RPS19,CCR7,RPS27,LYAR,LEF1,IL7R,TNFRSF4
+GO: Biological Process	GO:0043066	negative regulation of apoptotic process	 	5.075E-8	1.113E-4	4.100E-6	3.391E-5	15	1178	TIMP1,CD27,ANXA1,FOXP1,TNFRSF18,CCR7,PTGER2,LEF1,CTSH,YWHAH,IL6ST,RPL10,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0046649	lymphocyte activation	 	5.232E-8	1.148E-4	4.100E-6	3.391E-5	14	1005	CD27,ANXA1,TNFSF13B,B2M,FOXP1,CCR6,CCR7,LEF1,KLRB1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:2000106	regulation of leukocyte apoptotic process	 	5.893E-8	1.293E-4	4.458E-6	3.687E-5	7	149	CD27,ANXA1,FOXP1,CCR7,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:1903706	regulation of hemopoiesis	 	6.631E-8	1.455E-4	4.850E-6	4.011E-5	11	565	CD27,ANXA1,B2M,FOXP1,RPS19,CCR6,CCR7,LEF1,LGALS1,LGALS3,IL7R
+GO: Biological Process	GO:0032101	regulation of response to external stimulus	 	6.934E-8	1.521E-4	4.898E-6	4.051E-5	16	1396	SELL,HOPX,ANXA1,ANXA2,B2M,MYO1F,TMSB4X,FOXP1,RPS19,TMSB10,CCR6,CCR7,LYAR,KLRB1,LGALS1,IL6ST
+GO: Biological Process	GO:0040012	regulation of locomotion	 	7.143E-8	1.567E-4	4.898E-6	4.051E-5	16	1399	SELL,VIM,S100A11,TIMP1,ANXA1,MYO1F,TMSB4X,FOXP1,TMSB10,TNFRSF18,CCR6,CCR7,LEF1,CTSH,IL6ST,LGALS3
+GO: Biological Process	GO:0043069	negative regulation of programmed cell death	 	7.788E-8	1.709E-4	5.178E-6	4.282E-5	15	1217	TIMP1,CD27,ANXA1,FOXP1,TNFRSF18,CCR7,PTGER2,LEF1,CTSH,YWHAH,IL6ST,RPL10,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:1903039	positive regulation of leukocyte cell-cell adhesion	 	8.328E-8	1.827E-4	5.374E-6	4.445E-5	9	336	CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,IL7R
+GO: Biological Process	GO:1903037	regulation of leukocyte cell-cell adhesion	 	8.578E-8	1.882E-4	5.377E-6	4.448E-5	10	451	CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0045785	positive regulation of cell adhesion	 	1.027E-7	2.253E-4	6.205E-6	5.132E-5	11	590	S100A10,CD27,ANXA1,TNFSF13B,B2M,TNFRSF18,CCR7,LEF1,LGALS1,IL6ST,IL7R
+GO: Biological Process	GO:0008284	positive regulation of cell population proliferation	 	1.071E-7	2.350E-4	6.205E-6	5.132E-5	15	1247	S100A6,VIM,TIMP1,ANXA1,ANXA2,TNFSF13B,FOXP1,CCR7,MARCKSL1,LEF1,CTSH,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0040011	locomotion	 	1.075E-7	2.358E-4	6.205E-6	5.132E-5	18	1861	SELL,S100A4,VIM,S100A11,TIMP1,ANXA1,MYO1F,TMSB4X,FOXP1,RPS19,TMSB10,TNFRSF18,CCR6,CCR7,LEF1,CTSH,IL6ST,LGALS3
+GO: Biological Process	GO:0002694	regulation of leukocyte activation	 	1.372E-7	3.009E-4	7.716E-6	6.382E-5	12	754	CD27,ANXA1,TNFSF13B,B2M,CCR6,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0002696	positive regulation of leukocyte activation	 	1.444E-7	3.168E-4	7.920E-6	6.550E-5	10	477	CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,IL7R,TNFRSF4
+GO: Biological Process	GO:1903131	mononuclear cell differentiation	 	1.953E-7	4.285E-4	1.045E-5	8.644E-5	11	629	CD27,ANXA1,TNFSF13B,B2M,FOXP1,CCR6,CCR7,LEF1,LGALS1,LGALS3,IL7R
+GO: Biological Process	GO:2000026	regulation of multicellular organismal development	 	2.113E-7	4.637E-4	1.104E-5	9.131E-5	18	1946	VIM,S100A10,CD27,HOPX,ANXA1,ANXA2,B2M,FOXP1,RPS19,CCR6,CCR7,LEF1,CTSH,YWHAH,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0050867	positive regulation of cell activation	 	2.231E-7	4.895E-4	1.138E-5	9.416E-5	10	500	CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,IL7R,TNFRSF4
+GO: Biological Process	GO:0071887	leukocyte apoptotic process	 	2.781E-7	6.102E-4	1.358E-5	1.123E-4	7	187	CD27,ANXA1,FOXP1,CCR7,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0030155	regulation of cell adhesion	 	2.784E-7	6.109E-4	1.358E-5	1.123E-4	13	972	S100A10,CD27,ANXA1,TNFSF13B,B2M,MYO1F,TNFRSF18,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0022409	positive regulation of cell-cell adhesion	 	3.135E-7	6.879E-4	1.495E-5	1.237E-4	9	393	CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,IL7R
+GO: Biological Process	GO:0050865	regulation of cell activation	 	3.336E-7	7.319E-4	1.557E-5	1.288E-4	12	819	CD27,ANXA1,TNFSF13B,B2M,CCR6,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0002521	leukocyte differentiation	 	4.426E-7	9.710E-4	2.023E-5	1.673E-4	12	841	CD27,ANXA1,ANXA2,TNFSF13B,B2M,FOXP1,CCR6,CCR7,LEF1,LGALS1,LGALS3,IL7R
+GO: Biological Process	GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	 	4.948E-7	1.086E-3	2.216E-5	1.833E-4	9	415	CD27,ANXA1,TNFSF13B,B2M,CCR6,CCR7,LEF1,CTSH,IL7R
+GO: Biological Process	GO:0046651	lymphocyte proliferation	 	5.361E-7	1.176E-3	2.352E-5	1.946E-4	9	419	CD27,ANXA1,TNFSF13B,CCR7,LEF1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0032943	mononuclear cell proliferation	 	6.156E-7	1.351E-3	2.648E-5	2.190E-4	9	426	CD27,ANXA1,TNFSF13B,CCR7,LEF1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0030098	lymphocyte differentiation	 	7.286E-7	1.598E-3	3.074E-5	2.542E-4	10	569	CD27,ANXA1,TNFSF13B,B2M,FOXP1,CCR6,CCR7,LEF1,LGALS1,IL7R
+GO: Biological Process	GO:1902105	regulation of leukocyte differentiation	 	8.684E-7	1.905E-3	3.595E-5	2.973E-4	9	444	CD27,ANXA1,FOXP1,CCR6,CCR7,LEF1,LGALS1,LGALS3,IL7R
+GO: Biological Process	GO:0042255	ribosome assembly	 	9.294E-7	2.039E-3	3.776E-5	3.123E-4	5	75	RPLP0,RPS19,RPSA,RPS27,RPL10
+GO: Biological Process	GO:0010628	positive regulation of gene expression	 	1.270E-6	2.786E-3	5.066E-5	4.190E-4	15	1512	VIM,S100A10,RPLP1,CD27,ANXA1,ANXA2,B2M,FOXP1,LTB,CCR7,LEF1,CTSH,IL6ST,IL7R,TNFRSF4
+GO: Biological Process	GO:0070661	leukocyte proliferation	 	1.319E-6	2.894E-3	5.109E-5	4.226E-4	9	467	CD27,ANXA1,TNFSF13B,CCR7,LEF1,IL6ST,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0022407	regulation of cell-cell adhesion	 	1.327E-6	2.912E-3	5.109E-5	4.226E-4	10	608	CD27,ANXA1,TNFSF13B,B2M,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0042113	B cell activation	 	1.451E-6	3.185E-3	5.491E-5	4.541E-4	8	347	CD27,TNFSF13B,FOXP1,CCR6,LEF1,LGALS1,IL7R,TNFRSF4
+GO: Biological Process	GO:0042093	T-helper cell differentiation	 	1.839E-6	4.035E-3	6.839E-5	5.657E-4	5	86	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:2000107	negative regulation of leukocyte apoptotic process	 	1.948E-6	4.274E-3	7.022E-5	5.808E-4	5	87	CD27,FOXP1,CCR7,IL7R,TNFRSF4
+GO: Biological Process	GO:1902107	positive regulation of leukocyte differentiation	 	1.952E-6	4.283E-3	7.022E-5	5.808E-4	7	250	CD27,ANXA1,CCR7,LEF1,LGALS1,LGALS3,IL7R
+GO: Biological Process	GO:1903708	positive regulation of hemopoiesis	 	2.058E-6	4.516E-3	7.284E-5	6.024E-4	7	252	CD27,ANXA1,CCR7,LEF1,LGALS1,LGALS3,IL7R
+GO: Biological Process	GO:0002286	T cell activation involved in immune response	 	2.092E-6	4.589E-3	7.285E-5	6.025E-4	6	160	ANXA1,FOXP1,CCR6,CCR7,LEF1,LGALS3
+GO: Biological Process	GO:0050777	negative regulation of immune response	 	2.226E-6	4.885E-3	7.632E-5	6.313E-4	7	255	ANXA1,B2M,RPS19,LYAR,KLRB1,LGALS3,IL7R
+GO: Biological Process	GO:0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response	 	2.304E-6	5.056E-3	7.779E-5	6.434E-4	5	90	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:0002293	alpha-beta T cell differentiation involved in immune response	 	2.434E-6	5.341E-3	8.092E-5	6.693E-4	5	91	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:0002699	positive regulation of immune effector process	 	2.636E-6	5.784E-3	8.633E-5	7.140E-4	8	376	CD27,ANXA1,B2M,FOXP1,RPS19,CCR7,KLRB1,TNFRSF4
+GO: Biological Process	GO:0002366	leukocyte activation involved in immune response	 	2.689E-6	5.899E-3	8.675E-5	7.175E-4	8	377	ANXA1,MYO1F,FOXP1,CCR6,CCR7,LEF1,LGALS1,LGALS3
+GO: Biological Process	GO:0002819	regulation of adaptive immune response	 	2.732E-6	5.993E-3	8.685E-5	7.184E-4	7	263	ANXA1,TNFSF13B,B2M,CCR6,CCR7,IL6ST,IL7R
+GO: Biological Process	GO:0002285	lymphocyte activation involved in immune response	 	2.801E-6	6.145E-3	8.709E-5	7.203E-4	7	264	ANXA1,FOXP1,CCR6,CCR7,LEF1,LGALS1,LGALS3
+GO: Biological Process	GO:0071345	cellular response to cytokine stimulus	 	2.844E-6	6.239E-3	8.709E-5	7.203E-4	12	1004	VIM,RPLP0,TNFSF13B,TMSB4X,FOXP1,TNFRSF18,CCR6,CCR7,LEF1,IL6ST,IL7R,TNFRSF4
+GO: Biological Process	GO:0002287	alpha-beta T cell activation involved in immune response	 	2.858E-6	6.270E-3	8.709E-5	7.203E-4	5	94	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:0002263	cell activation involved in immune response	 	2.907E-6	6.378E-3	8.737E-5	7.227E-4	8	381	ANXA1,MYO1F,FOXP1,CCR6,CCR7,LEF1,LGALS1,LGALS3
+GO: Biological Process	GO:0060326	cell chemotaxis	 	3.201E-6	7.023E-3	9.491E-5	7.850E-4	8	386	SELL,ANXA1,TMSB4X,RPS19,CCR6,CCR7,LEF1,LGALS3
+GO: Biological Process	GO:0002181	cytoplasmic translation	 	3.289E-6	7.217E-3	9.568E-5	7.914E-4	6	173	RPLP0,RPLP1,RPS19,RPSA,RPS27,RPL10
+GO: Biological Process	GO:0031347	regulation of defense response	 	3.314E-6	7.272E-3	9.568E-5	7.914E-4	12	1019	ANXA1,B2M,MYO1F,TMSB4X,FOXP1,RPS19,TMSB10,CCR7,LYAR,KLRB1,LGALS1,IL6ST
+GO: Biological Process	GO:0002377	immunoglobulin production	 	3.846E-6	8.438E-3	1.096E-4	9.063E-4	7	277	CD27,TNFSF13B,B2M,FOXP1,CCR6,IL7R,TNFRSF4
+GO: Biological Process	GO:0002292	T cell differentiation involved in immune response	 	4.073E-6	8.936E-3	1.146E-4	9.476E-4	5	101	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:0030099	myeloid cell differentiation	 	4.218E-6	9.254E-3	1.171E-4	9.688E-4	10	692	RPLP1,ANXA2,B2M,FOXP1,RPS19,CCR7,ACTN1,RPS27,LYAR,LEF1
+GO: Biological Process	GO:0002685	regulation of leukocyte migration	 	4.326E-6	9.491E-3	1.186E-4	9.813E-4	7	282	SELL,ANXA1,MYO1F,TNFRSF18,CCR6,CCR7,LGALS3
+GO: Biological Process	GO:0030217	T cell differentiation	 	4.644E-6	1.019E-2	1.258E-4	1.040E-3	8	406	CD27,ANXA1,B2M,FOXP1,CCR6,CCR7,LEF1,IL7R
+GO: Biological Process	GO:0006954	inflammatory response	 	5.020E-6	1.101E-2	1.343E-4	1.111E-3	12	1061	TIMP1,ANXA1,TMSB4X,FOXP1,RPS19,TMSB10,CCR6,CCR7,PTGER2,LGALS1,IL6ST,TNFRSF4
+GO: Biological Process	GO:0002687	positive regulation of leukocyte migration	 	5.151E-6	1.130E-2	1.362E-4	1.126E-3	6	187	SELL,MYO1F,TNFRSF18,CCR6,CCR7,LGALS3
+GO: Biological Process	GO:0070228	regulation of lymphocyte apoptotic process	 	5.923E-6	1.299E-2	1.547E-4	1.279E-3	5	109	CD27,FOXP1,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0043367	CD4-positive, alpha-beta T cell differentiation	 	8.031E-6	1.762E-2	2.073E-4	1.714E-3	5	116	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:0042100	B cell proliferation	 	1.297E-5	2.845E-2	3.308E-4	2.736E-3	5	128	CD27,TNFSF13B,LEF1,IL7R,TNFRSF4
+GO: Biological Process	GO:0048871	multicellular organismal-level homeostasis	 	1.342E-5	2.945E-2	3.385E-4	2.799E-3	12	1169	RPLP1,ANXA1,TNFSF13B,B2M,RPS19,CCR7,RPS27,LYAR,LEF1,CTSH,IL7R,TNFRSF4
+GO: Biological Process	GO:0070229	negative regulation of lymphocyte apoptotic process	 	1.411E-5	3.095E-2	3.517E-4	2.909E-3	4	62	CD27,FOXP1,IL7R,TNFRSF4
+GO: Biological Process	GO:0080134	regulation of response to stress	 	1.599E-5	3.508E-2	3.942E-4	3.260E-3	15	1858	CD27,ANXA1,ANXA2,B2M,MYO1F,TMSB4X,FOXP1,RPS19,TMSB10,CCR7,LYAR,PTGER2,KLRB1,LGALS1,IL6ST
+GO: Biological Process	GO:0010720	positive regulation of cell development	 	1.712E-5	3.757E-2	4.141E-4	3.425E-3	9	641	VIM,CD27,ANXA1,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0050900	leukocyte migration	 	1.717E-5	3.768E-2	4.141E-4	3.425E-3	8	486	SELL,ANXA1,MYO1F,RPS19,TNFRSF18,CCR6,CCR7,LGALS3
+GO: Biological Process	GO:0070227	lymphocyte apoptotic process	 	1.933E-5	4.240E-2	4.609E-4	3.812E-3	5	139	CD27,FOXP1,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0045580	regulation of T cell differentiation	 	2.034E-5	4.462E-2	4.798E-4	3.968E-3	6	238	CD27,ANXA1,CCR6,CCR7,LEF1,IL7R
+GO: Biological Process	GO:0050778	positive regulation of immune response	 	2.083E-5	4.571E-2	4.863E-4	4.022E-3	10	831	ANXA1,TNFSF13B,B2M,FOXP1,RPS19,CCR7,FYB1,KLRB1,IL6ST,LGALS3
+GO: Biological Process	GO:0070232	regulation of T cell apoptotic process	 	2.286E-5	5.017E-2	5.281E-4	4.368E-3	4	70	CD27,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	 	2.450E-5	5.375E-2	5.599E-4	4.631E-3	6	246	ANXA1,TNFSF13B,B2M,CCR6,CCR7,IL7R
+GO: Biological Process	GO:0002250	adaptive immune response	 	2.479E-5	5.438E-2	5.606E-4	4.637E-3	10	848	CD27,ANXA1,TNFSF13B,B2M,CCR6,CCR7,LEF1,CTSH,IL6ST,IL7R
+GO: Biological Process	GO:0006935	chemotaxis	 	2.555E-5	5.605E-2	5.719E-4	4.730E-3	10	851	SELL,S100A4,ANXA1,TMSB4X,FOXP1,RPS19,CCR6,CCR7,LEF1,LGALS3
+GO: Biological Process	GO:0042330	taxis	 	2.606E-5	5.718E-2	5.776E-4	4.777E-3	10	853	SELL,S100A4,ANXA1,TMSB4X,FOXP1,RPS19,CCR6,CCR7,LEF1,LGALS3
+GO: Biological Process	GO:0045582	positive regulation of T cell differentiation	 	2.789E-5	6.118E-2	6.118E-4	5.060E-3	5	150	CD27,ANXA1,CCR7,LEF1,IL7R
+GO: Biological Process	GO:0046632	alpha-beta T cell differentiation	 	3.164E-5	6.942E-2	6.873E-4	5.684E-3	5	154	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:0000028	ribosomal small subunit assembly	 	3.529E-5	7.742E-2	7.590E-4	6.278E-3	3	27	RPS19,RPSA,RPS27
+GO: Biological Process	GO:0050727	regulation of inflammatory response	 	3.890E-5	8.535E-2	8.286E-4	6.854E-3	8	545	ANXA1,TMSB4X,FOXP1,RPS19,TMSB10,CCR7,LGALS1,IL6ST
+GO: Biological Process	GO:0045063	T-helper 1 cell differentiation	 	3.946E-5	8.656E-2	8.324E-4	6.884E-3	3	28	ANXA1,CCR7,LEF1
+GO: Biological Process	GO:0035710	CD4-positive, alpha-beta T cell activation	 	4.031E-5	8.845E-2	8.423E-4	6.967E-3	5	162	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:0001816	cytokine production	 	4.552E-5	9.987E-2	9.421E-4	7.792E-3	11	1110	CD27,ANXA1,B2M,TMSB4X,FOXP1,LTB,CCR7,PTGER2,LEF1,IL6ST,TNFRSF4
+GO: Biological Process	GO:0019221	cytokine-mediated signaling pathway	 	4.772E-5	1.047E-1	9.785E-4	8.093E-3	8	561	TNFSF13B,TMSB4X,TNFRSF18,CCR6,CCR7,IL6ST,IL7R,TNFRSF4
+GO: Biological Process	GO:0032103	positive regulation of response to external stimulus	 	4.898E-5	1.075E-1	9.875E-4	8.167E-3	9	733	SELL,B2M,TMSB4X,RPS19,CCR6,CCR7,KLRB1,LGALS1,IL6ST
+GO: Biological Process	GO:0045621	positive regulation of lymphocyte differentiation	 	4.932E-5	1.082E-1	9.875E-4	8.167E-3	5	169	CD27,ANXA1,CCR7,LEF1,IL7R
+GO: Biological Process	GO:0045619	regulation of lymphocyte differentiation	 	4.951E-5	1.086E-1	9.875E-4	8.167E-3	6	279	CD27,ANXA1,CCR6,CCR7,LEF1,IL7R
+GO: Biological Process	GO:0002698	negative regulation of immune effector process	 	5.363E-5	1.177E-1	1.055E-3	8.727E-3	5	172	ANXA1,RPS19,KLRB1,LGALS3,IL7R
+GO: Biological Process	GO:0048535	lymph node development	 	5.387E-5	1.182E-1	1.055E-3	8.727E-3	3	31	LTB,CCR7,IL7R
+GO: Biological Process	GO:1905686	positive regulation of plasma membrane repair	 	5.491E-5	1.205E-1	1.057E-3	8.741E-3	2	5	S100A10,ANXA2
+GO: Biological Process	GO:2000520	regulation of immunological synapse formation	 	5.491E-5	1.205E-1	1.057E-3	8.741E-3	2	5	CCR7,LGALS3
+GO: Biological Process	GO:0002520	immune system development	 	5.792E-5	1.271E-1	1.105E-3	9.139E-3	6	287	FOXP1,LTB,CCR6,CCR7,LEF1,IL7R
+GO: Biological Process	GO:0070233	negative regulation of T cell apoptotic process	 	5.934E-5	1.302E-1	1.122E-3	9.283E-3	3	32	CD27,IL7R,TNFRSF4
+GO: Biological Process	GO:0070231	T cell apoptotic process	 	6.426E-5	1.410E-1	1.205E-3	9.966E-3	4	91	CD27,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0002440	production of molecular mediator of immune response	 	6.920E-5	1.518E-1	1.287E-3	1.064E-2	7	434	CD27,TNFSF13B,B2M,FOXP1,CCR6,IL7R,TNFRSF4
+GO: Biological Process	GO:0042098	T cell proliferation	 	7.815E-5	1.715E-1	1.429E-3	1.182E-2	6	303	ANXA1,TNFSF13B,CCR7,IL6ST,LGALS3,TNFRSF4
+GO: Biological Process	GO:0030595	leukocyte chemotaxis	 	7.815E-5	1.715E-1	1.429E-3	1.182E-2	6	303	SELL,ANXA1,RPS19,CCR6,CCR7,LGALS3
+GO: Biological Process	GO:0045597	positive regulation of cell differentiation	 	8.097E-5	1.776E-1	1.468E-3	1.214E-2	11	1183	VIM,CD27,HOPX,ANXA1,TMSB4X,CCR7,LEF1,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0002683	negative regulation of immune system process	 	9.497E-5	2.084E-1	1.708E-3	1.413E-2	8	619	ANXA1,B2M,RPS19,LYAR,KLRB1,LGALS3,IL7R,TNFRSF4
+GO: Biological Process	GO:0097529	myeloid leukocyte migration	 	1.002E-4	2.198E-1	1.787E-3	1.478E-2	6	317	SELL,ANXA1,MYO1F,RPS19,CCR7,LGALS3
+GO: Biological Process	GO:0097435	supramolecular fiber organization	 	1.106E-4	2.426E-1	1.948E-3	1.611E-2	10	1013	VIM,S100A10,ANXA2,B2M,MYO1F,TMSB4X,TMSB10,CCR7,MARCKSL1,ACTN1
+GO: Biological Process	GO:0050670	regulation of lymphocyte proliferation	 	1.110E-4	2.435E-1	1.948E-3	1.611E-2	6	323	ANXA1,TNFSF13B,CCR7,IL6ST,LGALS3,TNFRSF4
+GO: Biological Process	GO:0050671	positive regulation of lymphocyte proliferation	 	1.146E-4	2.514E-1	1.996E-3	1.651E-2	5	202	ANXA1,TNFSF13B,CCR7,IL6ST,TNFRSF4
+GO: Biological Process	GO:0032944	regulation of mononuclear cell proliferation	 	1.187E-4	2.605E-1	2.051E-3	1.696E-2	6	327	ANXA1,TNFSF13B,CCR7,IL6ST,LGALS3,TNFRSF4
+GO: Biological Process	GO:0001906	cell killing	 	1.207E-4	2.649E-1	2.057E-3	1.701E-2	6	328	B2M,RPS19,CTSH,KLRB1,LGALS3,IL7R
+GO: Biological Process	GO:0051707	response to other organism	 	1.211E-4	2.658E-1	2.057E-3	1.701E-2	14	1951	S100A6,VIM,ANXA1,B2M,MYO1F,FOXP1,RPS19,TMSB10,CCR7,LYAR,PTGER2,KLRB1,LGALS3,IL7R
+GO: Biological Process	GO:0002262	myeloid cell homeostasis	 	1.227E-4	2.693E-1	2.057E-3	1.701E-2	6	329	RPLP1,ANXA1,B2M,RPS19,RPS27,LYAR
+GO: Biological Process	GO:0032946	positive regulation of mononuclear cell proliferation	 	1.228E-4	2.694E-1	2.057E-3	1.701E-2	5	205	ANXA1,TNFSF13B,CCR7,IL6ST,TNFRSF4
+GO: Biological Process	GO:0043207	response to external biotic stimulus	 	1.238E-4	2.717E-1	2.058E-3	1.702E-2	14	1955	S100A6,VIM,ANXA1,B2M,MYO1F,FOXP1,RPS19,TMSB10,CCR7,LYAR,PTGER2,KLRB1,LGALS3,IL7R
+GO: Biological Process	GO:0006959	humoral immune response	 	1.248E-4	2.738E-1	2.059E-3	1.703E-2	6	330	B2M,RPS19,TMSB10,CCR6,CCR7,LGALS3
+GO: Biological Process	GO:0001817	regulation of cytokine production	 	1.352E-4	2.965E-1	2.213E-3	1.830E-2	10	1038	CD27,ANXA1,B2M,TMSB4X,FOXP1,LTB,CCR7,LEF1,IL6ST,TNFRSF4
+GO: Biological Process	GO:0097530	granulocyte migration	 	1.406E-4	3.084E-1	2.284E-3	1.889E-2	5	211	SELL,ANXA1,MYO1F,CCR7,LGALS3
+GO: Biological Process	GO:0010634	positive regulation of epithelial cell migration	 	1.501E-4	3.294E-1	2.422E-3	2.003E-2	5	214	ANXA1,TMSB4X,FOXP1,CCR6,CTSH
+GO: Biological Process	GO:1905684	regulation of plasma membrane repair	 	1.531E-4	3.358E-1	2.451E-3	2.027E-2	2	8	S100A10,ANXA2
+GO: Biological Process	GO:0009607	response to biotic stimulus	 	1.562E-4	3.427E-1	2.483E-3	2.054E-2	14	1998	S100A6,VIM,ANXA1,B2M,MYO1F,FOXP1,RPS19,TMSB10,CCR7,LYAR,PTGER2,KLRB1,LGALS3,IL7R
+GO: Biological Process	GO:0045185	maintenance of protein location	 	1.594E-4	3.498E-1	2.516E-3	2.081E-2	4	115	TMSB4X,TMSB10,LGALS1,LGALS3
+GO: Biological Process	GO:0051094	positive regulation of developmental process	 	1.651E-4	3.621E-1	2.587E-3	2.139E-2	13	1755	VIM,CD27,HOPX,ANXA1,TNFSF13B,TMSB4X,CCR7,LEF1,CTSH,LGALS1,IL6ST,LGALS3,IL7R
+GO: Biological Process	GO:0042254	ribosome biogenesis	 	1.666E-4	3.655E-1	2.592E-3	2.144E-2	6	348	RPLP0,RPS19,RPSA,RPS27,LYAR,RPL10
+GO: Biological Process	GO:0070665	positive regulation of leukocyte proliferation	 	1.819E-4	3.991E-1	2.804E-3	2.319E-2	5	223	ANXA1,TNFSF13B,CCR7,IL6ST,TNFRSF4
+GO: Biological Process	GO:0070663	regulation of leukocyte proliferation	 	1.827E-4	4.009E-1	2.804E-3	2.319E-2	6	354	ANXA1,TNFSF13B,CCR7,IL6ST,LGALS3,TNFRSF4
+GO: Biological Process	GO:0042063	gliogenesis	 	1.882E-4	4.130E-1	2.868E-3	2.372E-2	7	510	S100A4,S100A6,VIM,ANXA1,LEF1,IL6ST,IL7R
+GO: Biological Process	GO:2001200	positive regulation of dendritic cell differentiation	 	1.965E-4	4.311E-1	2.953E-3	2.442E-2	2	9	LGALS1,LGALS3
+GO: Biological Process	GO:0045627	positive regulation of T-helper 1 cell differentiation	 	1.965E-4	4.311E-1	2.953E-3	2.442E-2	2	9	ANXA1,CCR7
+GO: Biological Process	GO:0033209	tumor necrosis factor-mediated signaling pathway	 	2.001E-4	4.390E-1	2.986E-3	2.470E-2	4	122	TNFSF13B,TMSB4X,TNFRSF18,TNFRSF4
+GO: Biological Process	GO:1902624	positive regulation of neutrophil migration	 	2.015E-4	4.420E-1	2.987E-3	2.470E-2	3	48	SELL,MYO1F,CCR7
+GO: Biological Process	GO:0045824	negative regulation of innate immune response	 	2.065E-4	4.530E-1	3.040E-3	2.514E-2	4	123	B2M,RPS19,LYAR,KLRB1
+GO: Biological Process	GO:0071674	mononuclear cell migration	 	2.186E-4	4.796E-1	3.190E-3	2.638E-2	5	232	ANXA1,RPS19,CCR6,CCR7,LGALS3
+GO: Biological Process	GO:0007015	actin filament organization	 	2.195E-4	4.817E-1	3.190E-3	2.638E-2	7	523	S100A10,MYO1F,TMSB4X,TMSB10,CCR7,MARCKSL1,ACTN1
+GO: Biological Process	GO:0033077	T cell differentiation in thymus	 	2.334E-4	5.121E-1	3.369E-3	2.786E-2	4	127	B2M,CCR6,CCR7,IL7R
+GO: Biological Process	GO:0051241	negative regulation of multicellular organismal process	 	2.354E-4	5.165E-1	3.376E-3	2.792E-2	12	1571	TIMP1,ANXA1,ANXA2,B2M,TMSB4X,FOXP1,RPS19,CCR7,LEF1,YWHAH,LGALS3,TNFRSF4
+GO: Biological Process	GO:0046631	alpha-beta T cell activation	 	2.412E-4	5.293E-1	3.437E-3	2.843E-2	5	237	ANXA1,FOXP1,CCR6,CCR7,LEF1
+GO: Biological Process	GO:0010756	positive regulation of plasminogen activation	 	2.452E-4	5.381E-1	3.449E-3	2.853E-2	2	10	S100A10,ANXA2
+GO: Biological Process	GO:1900122	positive regulation of receptor binding	 	2.452E-4	5.381E-1	3.449E-3	2.853E-2	2	10	ANXA2,B2M
+GO: Biological Process	GO:0002443	leukocyte mediated immunity	 	2.521E-4	5.531E-1	3.523E-3	2.914E-2	7	535	CD27,B2M,MYO1F,CCR6,CTSH,KLRB1,IL7R
+GO: Biological Process	GO:0045622	regulation of T-helper cell differentiation	 	2.557E-4	5.611E-1	3.551E-3	2.937E-2	3	52	ANXA1,CCR6,CCR7
+GO: Biological Process	GO:0140236	translation at presynapse	 	2.706E-4	5.937E-1	3.734E-3	3.088E-2	3	53	RPLP0,RPS27,RPL10
+GO: Biological Process	GO:0042060	wound healing	 	2.759E-4	6.052E-1	3.783E-3	3.129E-2	7	543	VIM,S100A10,TIMP1,ANXA1,ANXA2,ACTN1,IL6ST
+GO: Biological Process	GO:0140241	translation at synapse	 	2.861E-4	6.276E-1	3.874E-3	3.204E-2	3	54	RPLP0,RPS27,RPL10
+GO: Biological Process	GO:0140242	translation at postsynapse	 	2.861E-4	6.276E-1	3.874E-3	3.204E-2	3	54	RPLP0,RPS27,RPL10
+GO: Biological Process	GO:0010001	glial cell differentiation	 	2.993E-4	6.566E-1	4.004E-3	3.312E-2	6	388	S100A4,S100A6,VIM,LEF1,IL6ST,IL7R
+GO: Biological Process	GO:0072679	thymocyte migration	 	2.993E-4	6.566E-1	4.004E-3	3.312E-2	2	11	CCR6,CCR7
+GO: Biological Process	GO:0097190	apoptotic signaling pathway	 	3.044E-4	6.678E-1	4.047E-3	3.347E-2	8	734	CD27,RPS19,LTB,PTGER2,CTSH,CRIP1,LGALS3,TNFRSF4
+GO: Biological Process	GO:0050767	regulation of neurogenesis	 	3.183E-4	6.984E-1	4.205E-3	3.478E-2	7	556	VIM,S100A10,ANXA2,B2M,LEF1,YWHAH,IL6ST
+GO: Biological Process	GO:0042129	regulation of T cell proliferation	 	3.201E-4	7.023E-1	4.205E-3	3.478E-2	5	252	ANXA1,TNFSF13B,CCR7,IL6ST,LGALS3
+GO: Biological Process	GO:0030218	erythrocyte differentiation	 	3.260E-4	7.152E-1	4.257E-3	3.521E-2	5	253	RPLP1,B2M,RPS19,RPS27,LYAR
+GO: Biological Process	GO:0022618	protein-RNA complex assembly	 	3.380E-4	7.415E-1	4.388E-3	3.629E-2	5	255	RPLP0,RPS19,RPSA,RPS27,RPL10
+GO: Biological Process	GO:0002449	lymphocyte mediated immunity	 	3.428E-4	7.520E-1	4.424E-3	3.659E-2	6	398	CD27,B2M,CCR6,CTSH,KLRB1,IL7R
+GO: Biological Process	GO:0031295	T cell costimulation	 	3.535E-4	7.755E-1	4.509E-3	3.729E-2	3	58	TNFSF13B,CCR7,LGALS1
+GO: Biological Process	GO:0042088	T-helper 1 type immune response	 	3.535E-4	7.755E-1	4.509E-3	3.729E-2	3	58	ANXA1,CCR7,LEF1
+GO: Biological Process	GO:2000510	positive regulation of dendritic cell chemotaxis	 	3.586E-4	7.868E-1	4.522E-3	3.740E-2	2	12	CCR6,CCR7
+GO: Biological Process	GO:0042989	sequestering of actin monomers	 	3.586E-4	7.868E-1	4.522E-3	3.740E-2	2	12	TMSB4X,TMSB10
+GO: Biological Process	GO:0044403	biological process involved in symbiotic interaction	 	3.663E-4	8.037E-1	4.593E-3	3.798E-2	6	403	ANXA2,RPSA,LEF1,LGALS1,EEF1A1,TNFRSF4
+GO: Biological Process	GO:0009611	response to wounding	 	3.843E-4	8.432E-1	4.791E-3	3.962E-2	8	760	VIM,S100A10,TIMP1,ANXA1,ANXA2,TMSB10,ACTN1,IL6ST
+GO: Biological Process	GO:0071826	protein-RNA complex organization	 	3.893E-4	8.542E-1	4.816E-3	3.983E-2	5	263	RPLP0,RPS19,RPSA,RPS27,RPL10
+GO: Biological Process	GO:0031294	lymphocyte costimulation	 	3.907E-4	8.572E-1	4.816E-3	3.983E-2	3	60	TNFSF13B,CCR7,LGALS1
+GO: Biological Process	GO:0034101	erythrocyte homeostasis	 	4.100E-4	8.996E-1	5.000E-3	4.136E-2	5	266	RPLP1,B2M,RPS19,RPS27,LYAR
+GO: Biological Process	GO:0006968	cellular defense response	 	4.102E-4	9.001E-1	5.000E-3	4.136E-2	3	61	B2M,CCR6,TNFRSF4
+GO: Biological Process	GO:0001765	membrane raft assembly	 	4.232E-4	9.284E-1	5.087E-3	4.207E-2	2	13	S100A10,ANXA2
+GO: Biological Process	GO:0045625	regulation of T-helper 1 cell differentiation	 	4.232E-4	9.284E-1	5.087E-3	4.207E-2	2	13	ANXA1,CCR7
+GO: Biological Process	GO:0071356	cellular response to tumor necrosis factor	 	4.243E-4	9.309E-1	5.087E-3	4.207E-2	5	268	TNFSF13B,TMSB4X,FOXP1,TNFRSF18,TNFRSF4
+GO: Biological Process	GO:0098542	defense response to other organism	 	4.653E-4	1.000E0	5.548E-3	4.588E-2	11	1445	VIM,ANXA1,B2M,MYO1F,FOXP1,RPS19,TMSB10,LYAR,KLRB1,LGALS3,IL7R
+GO: Biological Process	GO:0097028	dendritic cell differentiation	 	4.726E-4	1.000E0	5.604E-3	4.635E-2	3	64	CCR7,LGALS1,LGALS3
+GO: Biological Process	GO:0042102	positive regulation of T cell proliferation	 	4.856E-4	1.000E0	5.727E-3	4.737E-2	4	154	ANXA1,TNFSF13B,CCR7,IL6ST
+GO: Biological Process	GO:2000508	regulation of dendritic cell chemotaxis	 	4.929E-4	1.000E0	5.783E-3	4.783E-2	2	14	CCR6,CCR7
+GO: Biological Process	GO:0001819	positive regulation of cytokine production	 	5.387E-4	1.000E0	6.287E-3	5.200E-2	7	607	CD27,ANXA1,B2M,FOXP1,LTB,CCR7,IL6ST
+GO: Biological Process	GO:1902622	regulation of neutrophil migration	 	5.646E-4	1.000E0	6.555E-3	5.421E-2	3	68	SELL,MYO1F,CCR7
+GO: Biological Process	GO:0061515	myeloid cell development	 	6.013E-4	1.000E0	6.943E-3	5.743E-2	4	163	ANXA2,FOXP1,RPS19,LYAR
+GO: Biological Process	GO:0034612	response to tumor necrosis factor	 	6.263E-4	1.000E0	7.195E-3	5.951E-2	5	292	TNFSF13B,TMSB4X,FOXP1,TNFRSF18,TNFRSF4
+GO: Biological Process	GO:0043370	regulation of CD4-positive, alpha-beta T cell differentiation	 	6.407E-4	1.000E0	7.322E-3	6.056E-2	3	71	ANXA1,CCR6,CCR7
+GO: Biological Process	GO:0071863	regulation of cell proliferation in bone marrow	 	6.481E-4	1.000E0	7.367E-3	6.093E-2	2	16	LEF1,LGALS3
+GO: Biological Process	GO:0042742	defense response to bacterium	 	6.554E-4	1.000E0	7.412E-3	6.131E-2	6	450	B2M,MYO1F,FOXP1,RPS19,TMSB10,IL7R
+GO: Biological Process	GO:0048260	positive regulation of receptor-mediated endocytosis	 	6.675E-4	1.000E0	7.510E-3	6.212E-2	3	72	ANXA2,B2M,CCR7
+GO: Biological Process	GO:0014812	muscle cell migration	 	6.734E-4	1.000E0	7.538E-3	6.235E-2	4	168	S100A11,ANXA1,TMSB4X,IL6ST
+GO: Biological Process	GO:0009617	response to bacterium	 	6.841E-4	1.000E0	7.619E-3	6.301E-2	9	1043	VIM,B2M,MYO1F,FOXP1,RPS19,TMSB10,CCR7,PTGER2,IL7R
+GO: Biological Process	GO:0032655	regulation of interleukin-12 production	 	7.816E-4	1.000E0	8.661E-3	7.163E-2	3	76	FOXP1,LTB,CCR7
+GO: Biological Process	GO:0071621	granulocyte chemotaxis	 	8.013E-4	1.000E0	8.834E-3	7.307E-2	4	176	SELL,ANXA1,CCR7,LGALS3
+GO: Biological Process	GO:1990266	neutrophil migration	 	8.184E-4	1.000E0	8.903E-3	7.364E-2	4	177	SELL,MYO1F,CCR7,LGALS3
+GO: Biological Process	GO:0002832	negative regulation of response to biotic stimulus	 	8.184E-4	1.000E0	8.903E-3	7.364E-2	4	177	B2M,RPS19,LYAR,KLRB1
+GO: Biological Process	GO:0001771	immunological synapse formation	 	8.238E-4	1.000E0	8.903E-3	7.364E-2	2	18	CCR7,LGALS3
+GO: Biological Process	GO:0071838	cell proliferation in bone marrow	 	8.238E-4	1.000E0	8.903E-3	7.364E-2	2	18	LEF1,LGALS3
+GO: Biological Process	GO:0032615	interleukin-12 production	 	8.430E-4	1.000E0	9.066E-3	7.499E-2	3	78	FOXP1,LTB,CCR7
+GO: Biological Process	GO:0002702	positive regulation of production of molecular mediator of immune response	 	8.712E-4	1.000E0	9.279E-3	7.675E-2	4	180	CD27,B2M,FOXP1,TNFRSF4
+GO: Biological Process	GO:0050921	positive regulation of chemotaxis	 	8.712E-4	1.000E0	9.279E-3	7.675E-2	4	180	SELL,TMSB4X,CCR6,CCR7
+GO: Biological Process	GO:0002548	monocyte chemotaxis	 	9.074E-4	1.000E0	9.617E-3	7.955E-2	3	80	ANXA1,RPS19,LGALS3
+GO: Biological Process	GO:0051098	regulation of binding	 	9.169E-4	1.000E0	9.650E-3	7.982E-2	6	480	S100A10,HOPX,ANXA2,B2M,TMSB4X,LEF1
+GO: Biological Process	GO:0034112	positive regulation of homotypic cell-cell adhesion	 	9.193E-4	1.000E0	9.650E-3	7.982E-2	2	19	LGALS1,IL6ST
+GO: Biological Process	GO:0001776	leukocyte homeostasis	 	9.265E-4	1.000E0	9.679E-3	8.006E-2	4	183	ANXA1,TNFSF13B,IL7R,TNFRSF4
+GO: Biological Process	GO:0051960	regulation of nervous system development	 	9.387E-4	1.000E0	9.761E-3	8.073E-2	7	667	VIM,S100A10,ANXA2,B2M,LEF1,YWHAH,IL6ST
+GO: Biological Process	GO:0030036	actin cytoskeleton organization	 	9.773E-4	1.000E0	1.011E-2	8.365E-2	8	876	S100A10,ANXA1,MYO1F,TMSB4X,TMSB10,CCR7,MARCKSL1,ACTN1
+GO: Biological Process	GO:0016444	somatic cell DNA recombination	 	1.010E-3	1.000E0	1.026E-2	8.483E-2	3	83	FOXP1,CCR6,LEF1
+GO: Biological Process	GO:0002639	positive regulation of immunoglobulin production	 	1.010E-3	1.000E0	1.026E-2	8.483E-2	3	83	CD27,FOXP1,TNFRSF4
+GO: Biological Process	GO:0014911	positive regulation of smooth muscle cell migration	 	1.010E-3	1.000E0	1.026E-2	8.483E-2	3	83	S100A11,TMSB4X,IL6ST
+GO: Biological Process	GO:0002562	somatic diversification of immune receptors via germline recombination within a single locus	 	1.010E-3	1.000E0	1.026E-2	8.483E-2	3	83	FOXP1,CCR6,LEF1
+GO: Biological Process	GO:0010755	regulation of plasminogen activation	 	1.020E-3	1.000E0	1.026E-2	8.484E-2	2	20	S100A10,ANXA2
+GO: Biological Process	GO:2001198	regulation of dendritic cell differentiation	 	1.020E-3	1.000E0	1.026E-2	8.484E-2	2	20	LGALS1,LGALS3
+GO: Biological Process	GO:0019730	antimicrobial humoral response	 	1.024E-3	1.000E0	1.026E-2	8.484E-2	4	188	B2M,RPS19,TMSB10,LGALS3
+GO: Biological Process	GO:0006518	peptide metabolic process	 	1.045E-3	1.000E0	1.042E-2	8.618E-2	9	1107	VIM,RPLP0,RPLP1,RPS19,RPSA,RPS27,CTSH,RPL10,EEF1A1
+GO: Biological Process	GO:0051129	negative regulation of cellular component organization	 	1.114E-3	1.000E0	1.106E-2	9.147E-2	8	894	VIM,ANXA2,B2M,TMSB4X,TMSB10,YWHAH,LGALS1,LGALS3
+GO: Biological Process	GO:0031638	zymogen activation	 	1.119E-3	1.000E0	1.106E-2	9.147E-2	3	86	S100A10,ANXA2,CTSH
+GO: Biological Process	GO:1903729	regulation of plasma membrane organization	 	1.126E-3	1.000E0	1.107E-2	9.159E-2	2	21	S100A10,ANXA2
+GO: Biological Process	GO:0001913	T cell mediated cytotoxicity	 	1.157E-3	1.000E0	1.133E-2	9.374E-2	3	87	B2M,CTSH,IL7R
+GO: Biological Process	GO:0071677	positive regulation of mononuclear cell migration	 	1.196E-3	1.000E0	1.166E-2	9.645E-2	3	88	CCR6,CCR7,LGALS3
+GO: Biological Process	GO:0050854	regulation of antigen receptor-mediated signaling pathway	 	1.236E-3	1.000E0	1.195E-2	9.882E-2	3	89	FOXP1,CCR7,LGALS3
+GO: Biological Process	GO:0031340	positive regulation of vesicle fusion	 	1.236E-3	1.000E0	1.195E-2	9.882E-2	2	22	ANXA1,ANXA2
+GO: Biological Process	GO:0001909	leukocyte mediated cytotoxicity	 	1.263E-3	1.000E0	1.212E-2	1.003E-1	4	199	B2M,CTSH,KLRB1,IL7R
+GO: Biological Process	GO:0016032	viral process	 	1.265E-3	1.000E0	1.212E-2	1.003E-1	6	511	ANXA2,RPSA,LEF1,LGALS1,EEF1A1,TNFRSF4
+GO: Biological Process	GO:0065003	protein-containing complex assembly	 	1.311E-3	1.000E0	1.250E-2	1.034E-1	12	1901	RPLP0,HOPX,B2M,MT-ND2,TMSB4X,RPS19,TMSB10,RPSA,CCR7,RPS27,RPL10,LGALS3
+GO: Biological Process	GO:0030183	B cell differentiation	 	1.335E-3	1.000E0	1.268E-2	1.049E-1	4	202	CD27,TNFSF13B,FOXP1,LGALS1
+GO: Biological Process	GO:0033151	V(D)J recombination	 	1.352E-3	1.000E0	1.275E-2	1.054E-1	2	23	FOXP1,LEF1
+GO: Biological Process	GO:0046637	regulation of alpha-beta T cell differentiation	 	1.360E-3	1.000E0	1.275E-2	1.054E-1	3	92	ANXA1,CCR6,CCR7
+GO: Biological Process	GO:0002200	somatic diversification of immune receptors	 	1.360E-3	1.000E0	1.275E-2	1.054E-1	3	92	FOXP1,CCR6,LEF1
+GO: Biological Process	GO:0050729	positive regulation of inflammatory response	 	1.409E-3	1.000E0	1.316E-2	1.088E-1	4	205	RPS19,CCR7,LGALS1,IL6ST
+GO: Biological Process	GO:0140694	non-membrane-bounded organelle assembly	 	1.424E-3	1.000E0	1.324E-2	1.095E-1	6	523	RPLP0,RPS19,RPSA,ACTN1,RPS27,RPL10
+GO: Biological Process	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	 	1.435E-3	1.000E0	1.328E-2	1.099E-1	4	206	S100A4,LTB,CCR7,LGALS1
+GO: Biological Process	GO:0006412	translation	 	1.454E-3	1.000E0	1.340E-2	1.108E-1	8	932	VIM,RPLP0,RPLP1,RPS19,RPSA,RPS27,RPL10,EEF1A1
+GO: Biological Process	GO:0001667	ameboidal-type cell migration	 	1.461E-3	1.000E0	1.341E-2	1.109E-1	7	720	TIMP1,ANXA1,TMSB4X,FOXP1,CCR6,LEF1,CTSH
+GO: Biological Process	GO:0036035	osteoclast development	 	1.473E-3	1.000E0	1.341E-2	1.109E-1	2	24	ANXA2,FOXP1
+GO: Biological Process	GO:0098751	bone cell development	 	1.473E-3	1.000E0	1.341E-2	1.109E-1	2	24	ANXA2,FOXP1
+GO: Biological Process	GO:0051130	positive regulation of cellular component organization	 	1.518E-3	1.000E0	1.377E-2	1.139E-1	10	1411	S100A10,HOPX,ANXA1,ANXA2,B2M,CCR7,LYAR,IL6ST,LGALS3,EEF1A1
+GO: Biological Process	GO:0060627	regulation of vesicle-mediated transport	 	1.532E-3	1.000E0	1.383E-2	1.144E-1	7	726	S100A10,ANXA1,ANXA2,B2M,CCR7,LYAR,LGALS3
+GO: Biological Process	GO:0010632	regulation of epithelial cell migration	 	1.592E-3	1.000E0	1.432E-2	1.184E-1	5	360	ANXA1,TMSB4X,FOXP1,CCR6,CTSH
+GO: Biological Process	GO:0022613	ribonucleoprotein complex biogenesis	 	1.614E-3	1.000E0	1.445E-2	1.195E-1	6	536	RPLP0,RPS19,RPSA,RPS27,LYAR,RPL10
+GO: Biological Process	GO:0034695	response to prostaglandin E	 	1.729E-3	1.000E0	1.542E-2	1.275E-1	2	26	CCR7,PTGER2
+GO: Biological Process	GO:0050871	positive regulation of B cell activation	 	1.777E-3	1.000E0	1.579E-2	1.306E-1	3	101	CD27,TNFSF13B,TNFRSF4
+GO: Biological Process	GO:0021782	glial cell development	 	1.795E-3	1.000E0	1.588E-2	1.313E-1	4	219	S100A4,S100A6,VIM,IL7R
+GO: Biological Process	GO:0072359	circulatory system development	 	1.813E-3	1.000E0	1.598E-2	1.322E-1	12	1974	HOPX,ANXA1,ANXA2,TMSB4X,FOXP1,MARCKSL1,LEF1,CTSH,CRIP1,LGALS1,LGALS3,EEF1A1
+GO: Biological Process	GO:0043043	peptide biosynthetic process	 	1.836E-3	1.000E0	1.611E-2	1.332E-1	8	967	VIM,RPLP0,RPLP1,RPS19,RPSA,RPS27,RPL10,EEF1A1
+GO: Biological Process	GO:0045624	positive regulation of T-helper cell differentiation	 	1.864E-3	1.000E0	1.630E-2	1.348E-1	2	27	ANXA1,CCR7
+GO: Biological Process	GO:0030029	actin filament-based process	 	1.933E-3	1.000E0	1.683E-2	1.392E-1	8	975	S100A10,ANXA1,MYO1F,TMSB4X,TMSB10,CCR7,MARCKSL1,ACTN1
+GO: Biological Process	GO:0045807	positive regulation of endocytosis	 	1.949E-3	1.000E0	1.690E-2	1.398E-1	4	224	ANXA2,B2M,CCR7,LYAR
+GO: Biological Process	GO:0002764	immune response-regulating signaling pathway	 	2.031E-3	1.000E0	1.754E-2	1.451E-1	6	561	B2M,FOXP1,CCR7,FYB1,CTSH,LGALS3
+GO: Biological Process	GO:0019058	viral life cycle	 	2.135E-3	1.000E0	1.828E-2	1.512E-1	5	385	ANXA2,RPSA,LGALS1,EEF1A1,TNFRSF4
+GO: Biological Process	GO:0031349	positive regulation of defense response	 	2.143E-3	1.000E0	1.828E-2	1.512E-1	6	567	B2M,RPS19,CCR7,KLRB1,LGALS1,IL6ST
+GO: Biological Process	GO:0000027	ribosomal large subunit assembly	 	2.150E-3	1.000E0	1.828E-2	1.512E-1	2	29	RPLP0,RPL10
+GO: Biological Process	GO:1900120	regulation of receptor binding	 	2.150E-3	1.000E0	1.828E-2	1.512E-1	2	29	ANXA2,B2M
+GO: Biological Process	GO:2000514	regulation of CD4-positive, alpha-beta T cell activation	 	2.268E-3	1.000E0	1.921E-2	1.589E-1	3	110	ANXA1,CCR6,CCR7
+GO: Biological Process	GO:0031639	plasminogen activation	 	2.300E-3	1.000E0	1.933E-2	1.599E-1	2	30	S100A10,ANXA2
+GO: Biological Process	GO:0031579	membrane raft organization	 	2.300E-3	1.000E0	1.933E-2	1.599E-1	2	30	S100A10,ANXA2
+GO: Biological Process	GO:0007010	cytoskeleton organization	 	2.336E-3	1.000E0	1.954E-2	1.617E-1	11	1759	VIM,S100A10,ANXA1,MYO1F,TMSB4X,TMSB10,CCR7,MARCKSL1,ACTN1,YWHAH,SH3BGRL3
+GO: Biological Process	GO:1904156	DN3 thymocyte differentiation	 	2.379E-3	1.000E0	1.954E-2	1.617E-1	1	1	CCR6
+GO: Biological Process	GO:2000526	positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation	 	2.379E-3	1.000E0	1.954E-2	1.617E-1	1	1	CCR7
+GO: Biological Process	GO:1900022	regulation of D-erythro-sphingosine kinase activity	 	2.379E-3	1.000E0	1.954E-2	1.617E-1	1	1	EEF1A1
+GO: Biological Process	GO:0038115	chemokine (C-C motif) ligand 19 signaling pathway	 	2.379E-3	1.000E0	1.954E-2	1.617E-1	1	1	CCR7
+GO: Biological Process	GO:0034120	positive regulation of erythrocyte aggregation	 	2.379E-3	1.000E0	1.954E-2	1.617E-1	1	1	LGALS1
+GO: Biological Process	GO:0050857	positive regulation of antigen receptor-mediated signaling pathway	 	2.455E-3	1.000E0	2.002E-2	1.656E-1	2	31	FOXP1,CCR7
+GO: Biological Process	GO:0002407	dendritic cell chemotaxis	 	2.455E-3	1.000E0	2.002E-2	1.656E-1	2	31	CCR6,CCR7
+GO: Biological Process	GO:1903034	regulation of response to wounding	 	2.465E-3	1.000E0	2.003E-2	1.657E-1	4	239	ANXA1,ANXA2,TMSB10,IL6ST
+GO: Biological Process	GO:0042274	ribosomal small subunit biogenesis	 	2.510E-3	1.000E0	2.025E-2	1.674E-1	3	114	RPS19,RPSA,RPS27
+GO: Biological Process	GO:0051851	modulation by host of symbiont process	 	2.510E-3	1.000E0	2.025E-2	1.674E-1	3	114	ANXA2,LEF1,EEF1A1
+GO: Biological Process	GO:0050851	antigen receptor-mediated signaling pathway	 	2.541E-3	1.000E0	2.042E-2	1.689E-1	4	241	FOXP1,CCR7,FYB1,LGALS3
+GO: Biological Process	GO:0090023	positive regulation of neutrophil chemotaxis	 	2.615E-3	1.000E0	2.094E-2	1.732E-1	2	32	SELL,CCR7
+GO: Biological Process	GO:0002637	regulation of immunoglobulin production	 	2.637E-3	1.000E0	2.104E-2	1.740E-1	3	116	CD27,FOXP1,TNFRSF4
+GO: Biological Process	GO:0002690	positive regulation of leukocyte chemotaxis	 	2.702E-3	1.000E0	2.148E-2	1.776E-1	3	117	SELL,CCR6,CCR7
+GO: Biological Process	GO:0032956	regulation of actin cytoskeleton organization	 	2.773E-3	1.000E0	2.196E-2	1.816E-1	5	409	S100A10,MYO1F,TMSB4X,TMSB10,CCR7
+GO: Biological Process	GO:0007162	negative regulation of cell adhesion	 	2.831E-3	1.000E0	2.227E-2	1.842E-1	5	411	ANXA1,MYO1F,LEF1,LGALS1,LGALS3
+GO: Biological Process	GO:0030100	regulation of endocytosis	 	2.831E-3	1.000E0	2.227E-2	1.842E-1	5	411	ANXA2,B2M,CCR7,LYAR,LGALS3
+GO: Biological Process	GO:0031345	negative regulation of cell projection organization	 	2.858E-3	1.000E0	2.239E-2	1.852E-1	4	249	VIM,B2M,YWHAH,LGALS1
+GO: Biological Process	GO:0003159	morphogenesis of an endothelium	 	2.948E-3	1.000E0	2.278E-2	1.884E-1	2	34	FOXP1,MARCKSL1
+GO: Biological Process	GO:0061154	endothelial tube morphogenesis	 	2.948E-3	1.000E0	2.278E-2	1.884E-1	2	34	FOXP1,MARCKSL1
+GO: Biological Process	GO:0002825	regulation of T-helper 1 type immune response	 	2.948E-3	1.000E0	2.278E-2	1.884E-1	2	34	ANXA1,CCR7
+GO: Biological Process	GO:1903902	positive regulation of viral life cycle	 	2.948E-3	1.000E0	2.278E-2	1.884E-1	2	34	ANXA2,LGALS1
+GO: Biological Process	GO:0002260	lymphocyte homeostasis	 	2.971E-3	1.000E0	2.287E-2	1.892E-1	3	121	TNFSF13B,IL7R,TNFRSF4
+GO: Biological Process	GO:0002700	regulation of production of molecular mediator of immune response	 	2.983E-3	1.000E0	2.288E-2	1.893E-1	4	252	CD27,B2M,FOXP1,TNFRSF4
+GO: Biological Process	GO:0001778	plasma membrane repair	 	3.122E-3	1.000E0	2.379E-2	1.967E-1	2	35	S100A10,ANXA2
+GO: Biological Process	GO:0071624	positive regulation of granulocyte chemotaxis	 	3.122E-3	1.000E0	2.379E-2	1.967E-1	2	35	SELL,CCR7
+GO: Biological Process	GO:0051235	maintenance of location	 	3.171E-3	1.000E0	2.407E-2	1.991E-1	5	422	TMSB4X,TMSB10,CCR7,LGALS1,LGALS3
+GO: Biological Process	GO:0010954	positive regulation of protein processing	 	3.484E-3	1.000E0	2.627E-2	2.173E-1	2	37	S100A10,ANXA2
+GO: Biological Process	GO:0031338	regulation of vesicle fusion	 	3.484E-3	1.000E0	2.627E-2	2.173E-1	2	37	ANXA1,ANXA2
+GO: Biological Process	GO:0002831	regulation of response to biotic stimulus	 	3.528E-3	1.000E0	2.651E-2	2.193E-1	6	627	B2M,MYO1F,FOXP1,RPS19,LYAR,KLRB1
+GO: Biological Process	GO:0097191	extrinsic apoptotic signaling pathway	 	3.571E-3	1.000E0	2.674E-2	2.212E-1	4	265	CD27,LTB,LGALS3,TNFRSF4
+GO: Biological Process	GO:0001910	regulation of leukocyte mediated cytotoxicity	 	3.637E-3	1.000E0	2.714E-2	2.245E-1	3	130	B2M,KLRB1,IL7R
+GO: Biological Process	GO:0036336	dendritic cell migration	 	3.672E-3	1.000E0	2.723E-2	2.252E-1	2	38	CCR6,CCR7
+GO: Biological Process	GO:0035295	tube development	 	3.673E-3	1.000E0	2.723E-2	2.252E-1	11	1864	HOPX,ANXA1,ANXA2,TMSB4X,FOXP1,MARCKSL1,LEF1,CTSH,LGALS1,IL6ST,LGALS3
+GO: Biological Process	GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	 	3.716E-3	1.000E0	2.745E-2	2.270E-1	3	131	B2M,RPS19,LGALS3
+GO: Biological Process	GO:1903319	positive regulation of protein maturation	 	3.865E-3	1.000E0	2.817E-2	2.330E-1	2	39	S100A10,ANXA2
+GO: Biological Process	GO:0071353	cellular response to interleukin-4	 	3.865E-3	1.000E0	2.817E-2	2.330E-1	2	39	RPLP0,LEF1
+GO: Biological Process	GO:0032717	negative regulation of interleukin-8 production	 	3.865E-3	1.000E0	2.817E-2	2.330E-1	2	39	ANXA1,TMSB4X
+GO: Biological Process	GO:0044794	positive regulation by host of viral process	 	3.865E-3	1.000E0	2.817E-2	2.330E-1	2	39	ANXA2,EEF1A1
+GO: Biological Process	GO:0034109	homotypic cell-cell adhesion	 	3.877E-3	1.000E0	2.817E-2	2.330E-1	3	133	ACTN1,LGALS1,IL6ST
+GO: Biological Process	GO:0009725	response to hormone	 	3.891E-3	1.000E0	2.817E-2	2.330E-1	8	1092	TIMP1,ANXA1,FOXP1,CCR7,PTGER2,FKBP11,CTSH,YWHAH
+GO: Biological Process	GO:0014910	regulation of smooth muscle cell migration	 	4.127E-3	1.000E0	2.978E-2	2.463E-1	3	136	S100A11,TMSB4X,IL6ST
+GO: Biological Process	GO:0010975	regulation of neuron projection development	 	4.207E-3	1.000E0	3.026E-2	2.503E-1	6	650	VIM,B2M,YWHAH,LGALS1,IL6ST,EEF1A1
+GO: Biological Process	GO:0043604	amide biosynthetic process	 	4.413E-3	1.000E0	3.162E-2	2.616E-1	8	1115	VIM,RPLP0,RPLP1,RPS19,RPSA,RPS27,RPL10,EEF1A1
+GO: Biological Process	GO:0070670	response to interleukin-4	 	4.471E-3	1.000E0	3.162E-2	2.616E-1	2	42	RPLP0,LEF1
+GO: Biological Process	GO:0007417	central nervous system development	 	4.498E-3	1.000E0	3.162E-2	2.616E-1	10	1637	VIM,B2M,FOXP1,RPS19,MARCKSL1,LEF1,YWHAH,IL6ST,RPL10,IL7R
+GO: Biological Process	GO:0043122	regulation of canonical NF-kappaB signal transduction	 	4.509E-3	1.000E0	3.162E-2	2.616E-1	4	283	S100A4,LTB,CCR7,LGALS1
+GO: Biological Process	GO:0001818	negative regulation of cytokine production	 	4.531E-3	1.000E0	3.162E-2	2.616E-1	5	459	ANXA1,TMSB4X,CCR7,LEF1,TNFRSF4
+GO: Biological Process	GO:0045087	innate immune response	 	4.731E-3	1.000E0	3.162E-2	2.616E-1	8	1128	VIM,ANXA1,B2M,MYO1F,RPS19,LYAR,KLRB1,LGALS3
+GO: Biological Process	GO:0050920	regulation of chemotaxis	 	4.738E-3	1.000E0	3.162E-2	2.616E-1	4	287	SELL,TMSB4X,CCR6,CCR7
+GO: Biological Process	GO:1901250	negative regulation of lung goblet cell differentiation	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	FOXP1
+GO: Biological Process	GO:0071283	cellular response to iron(III) ion	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	B2M
+GO: Biological Process	GO:1905597	positive regulation of low-density lipoprotein particle receptor binding	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	ANXA2
+GO: Biological Process	GO:0002649	regulation of tolerance induction to self antigen	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	CCR7
+GO: Biological Process	GO:0006713	glucocorticoid catabolic process	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	YWHAH
+GO: Biological Process	GO:0060265	positive regulation of respiratory burst involved in inflammatory response	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	RPS19
+GO: Biological Process	GO:2000521	negative regulation of immunological synapse formation	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	LGALS3
+GO: Biological Process	GO:0032745	positive regulation of interleukin-21 production	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	FOXP1
+GO: Biological Process	GO:0038111	interleukin-7-mediated signaling pathway	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	IL7R
+GO: Biological Process	GO:1904434	positive regulation of ferrous iron binding	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	B2M
+GO: Biological Process	GO:1904432	regulation of ferrous iron binding	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	B2M
+GO: Biological Process	GO:1904437	positive regulation of transferrin receptor binding	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	B2M
+GO: Biological Process	GO:1904435	regulation of transferrin receptor binding	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	B2M
+GO: Biological Process	GO:0002518	lymphocyte chemotaxis across high endothelial venule	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	CCR7
+GO: Biological Process	GO:0034118	regulation of erythrocyte aggregation	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	LGALS1
+GO: Biological Process	GO:0034117	erythrocyte aggregation	 	4.740E-3	1.000E0	3.162E-2	2.616E-1	1	2	LGALS1
+GO: Biological Process	GO:0032970	regulation of actin filament-based process	 	4.742E-3	1.000E0	3.162E-2	2.616E-1	5	464	S100A10,MYO1F,TMSB4X,TMSB10,CCR7
+GO: Biological Process	GO:0034694	response to prostaglandin	 	4.897E-3	1.000E0	3.246E-2	2.685E-1	2	44	CCR7,PTGER2
+GO: Biological Process	GO:0043372	positive regulation of CD4-positive, alpha-beta T cell differentiation	 	4.897E-3	1.000E0	3.246E-2	2.685E-1	2	44	ANXA1,CCR7
+GO: Biological Process	GO:0071675	regulation of mononuclear cell migration	 	4.934E-3	1.000E0	3.251E-2	2.689E-1	3	145	CCR6,CCR7,LGALS3
+GO: Biological Process	GO:0019882	antigen processing and presentation	 	4.934E-3	1.000E0	3.251E-2	2.689E-1	3	145	B2M,CCR7,CTSH
+GO: Biological Process	GO:0010631	epithelial cell migration	 	5.050E-3	1.000E0	3.317E-2	2.743E-1	5	471	ANXA1,TMSB4X,FOXP1,CCR6,CTSH
+GO: Biological Process	GO:2001233	regulation of apoptotic signaling pathway	 	5.186E-3	1.000E0	3.396E-2	2.809E-1	5	474	LTB,PTGER2,CTSH,LGALS3,TNFRSF4
+GO: Biological Process	GO:0014909	smooth muscle cell migration	 	5.223E-3	1.000E0	3.401E-2	2.813E-1	3	148	S100A11,TMSB4X,IL6ST
+GO: Biological Process	GO:0030593	neutrophil chemotaxis	 	5.223E-3	1.000E0	3.401E-2	2.813E-1	3	148	SELL,CCR7,LGALS3
+GO: Biological Process	GO:0090132	epithelium migration	 	5.324E-3	1.000E0	3.456E-2	2.858E-1	5	477	ANXA1,TMSB4X,FOXP1,CCR6,CTSH
+GO: Biological Process	GO:0060541	respiratory system development	 	5.536E-3	1.000E0	3.583E-2	2.964E-1	4	300	HOPX,FOXP1,LEF1,CTSH
+GO: Biological Process	GO:0090022	regulation of neutrophil chemotaxis	 	5.804E-3	1.000E0	3.735E-2	3.089E-1	2	48	SELL,CCR7
+GO: Biological Process	GO:0090130	tissue migration	 	5.805E-3	1.000E0	3.735E-2	3.089E-1	5	487	ANXA1,TMSB4X,FOXP1,CCR6,CTSH
+GO: Biological Process	GO:0120035	regulation of plasma membrane bounded cell projection organization	 	5.846E-3	1.000E0	3.750E-2	3.102E-1	7	924	VIM,B2M,CCR7,YWHAH,LGALS1,IL6ST,EEF1A1
+GO: Biological Process	GO:0032496	response to lipopolysaccharide	 	5.905E-3	1.000E0	3.775E-2	3.122E-1	5	489	VIM,B2M,FOXP1,CCR7,PTGER2
+GO: Biological Process	GO:0110053	regulation of actin filament organization	 	5.933E-3	1.000E0	3.775E-2	3.122E-1	4	306	S100A10,TMSB4X,TMSB10,CCR7
+GO: Biological Process	GO:0048259	regulation of receptor-mediated endocytosis	 	5.936E-3	1.000E0	3.775E-2	3.122E-1	3	155	ANXA2,B2M,CCR7
+GO: Biological Process	GO:0045637	regulation of myeloid cell differentiation	 	6.001E-3	1.000E0	3.805E-2	3.147E-1	4	307	B2M,FOXP1,RPS19,LEF1
+GO: Biological Process	GO:0046634	regulation of alpha-beta T cell activation	 	6.150E-3	1.000E0	3.878E-2	3.207E-1	3	157	ANXA1,CCR6,CCR7
+GO: Biological Process	GO:0002688	regulation of leukocyte chemotaxis	 	6.150E-3	1.000E0	3.878E-2	3.207E-1	3	157	SELL,CCR6,CCR7
+GO: Biological Process	GO:0033993	response to lipid	 	6.186E-3	1.000E0	3.889E-2	3.216E-1	8	1180	VIM,ANXA1,B2M,FOXP1,CCR7,PTGER2,CTSH,YWHAH
+GO: Biological Process	GO:0001782	B cell homeostasis	 	6.284E-3	1.000E0	3.937E-2	3.256E-1	2	50	TNFSF13B,IL7R
+GO: Biological Process	GO:0043603	amide metabolic process	 	6.316E-3	1.000E0	3.937E-2	3.256E-1	9	1445	VIM,RPLP0,RPLP1,RPS19,RPSA,RPS27,CTSH,RPL10,EEF1A1
+GO: Biological Process	GO:0045088	regulation of innate immune response	 	6.317E-3	1.000E0	3.937E-2	3.256E-1	5	497	B2M,MYO1F,RPS19,LYAR,KLRB1
+GO: Biological Process	GO:0002821	positive regulation of adaptive immune response	 	6.369E-3	1.000E0	3.958E-2	3.274E-1	3	159	TNFSF13B,B2M,IL6ST
+GO: Biological Process	GO:0031344	regulation of cell projection organization	 	6.444E-3	1.000E0	3.994E-2	3.303E-1	7	941	VIM,B2M,CCR7,YWHAH,LGALS1,IL6ST,EEF1A1
+GO: Biological Process	GO:0010595	positive regulation of endothelial cell migration	 	6.480E-3	1.000E0	4.005E-2	3.312E-1	3	160	ANXA1,TMSB4X,FOXP1
+GO: Biological Process	GO:0048534	hematopoietic or lymphoid organ development	 	6.592E-3	1.000E0	4.051E-2	3.351E-1	3	161	LTB,CCR7,IL7R
+GO: Biological Process	GO:0031341	regulation of cell killing	 	6.592E-3	1.000E0	4.051E-2	3.351E-1	3	161	B2M,KLRB1,IL7R
+GO: Biological Process	GO:0030833	regulation of actin filament polymerization	 	6.705E-3	1.000E0	4.090E-2	3.383E-1	3	162	TMSB4X,TMSB10,CCR7
+GO: Biological Process	GO:0002675	positive regulation of acute inflammatory response	 	6.782E-3	1.000E0	4.090E-2	3.383E-1	2	52	CCR7,IL6ST
+GO: Biological Process	GO:0001911	negative regulation of leukocyte mediated cytotoxicity	 	6.782E-3	1.000E0	4.090E-2	3.383E-1	2	52	KLRB1,IL7R
+GO: Biological Process	GO:0090594	inflammatory response to wounding	 	6.782E-3	1.000E0	4.090E-2	3.383E-1	2	52	TIMP1,TMSB10
+GO: Biological Process	GO:0051050	positive regulation of transport	 	6.829E-3	1.000E0	4.090E-2	3.383E-1	8	1200	S100A10,ANXA1,ANXA2,B2M,TMSB4X,CCR7,LYAR,LGALS3
+GO: Biological Process	GO:0030890	positive regulation of B cell proliferation	 	7.037E-3	1.000E0	4.090E-2	3.383E-1	2	53	TNFSF13B,TNFRSF4
+GO: Biological Process	GO:0032735	positive regulation of interleukin-12 production	 	7.037E-3	1.000E0	4.090E-2	3.383E-1	2	53	LTB,CCR7
+GO: Biological Process	GO:1905602	positive regulation of receptor-mediated endocytosis involved in cholesterol transport	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	ANXA2
+GO: Biological Process	GO:1901249	regulation of lung goblet cell differentiation	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	FOXP1
+GO: Biological Process	GO:1904346	positive regulation of gastric mucosal blood circulation	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	PTGER2
+GO: Biological Process	GO:1904344	regulation of gastric mucosal blood circulation	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	PTGER2
+GO: Biological Process	GO:1903769	negative regulation of cell proliferation in bone marrow	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	LGALS3
+GO: Biological Process	GO:0061152	trachea submucosa development	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	LEF1
+GO: Biological Process	GO:0061153	trachea gland development	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	LEF1
+GO: Biological Process	GO:2000522	positive regulation of immunological synapse formation	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	CCR7
+GO: Biological Process	GO:2000547	regulation of dendritic cell dendrite assembly	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	CCR7
+GO: Biological Process	GO:1903614	negative regulation of protein tyrosine phosphatase activity	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	LGALS3
+GO: Biological Process	GO:0014064	positive regulation of serotonin secretion	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	LGALS3
+GO: Biological Process	GO:0098582	innate vocalization behavior	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	FOXP1
+GO: Biological Process	GO:0060784	regulation of cell proliferation involved in tissue homeostasis	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	LEF1
+GO: Biological Process	GO:0060448	dichotomous subdivision of terminal units involved in lung branching	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	CTSH
+GO: Biological Process	GO:0032804	negative regulation of low-density lipoprotein particle receptor catabolic process	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	ANXA2
+GO: Biological Process	GO:2001189	negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	LGALS3
+GO: Biological Process	GO:1990768	gastric mucosal blood circulation	 	7.102E-3	1.000E0	4.090E-2	3.383E-1	1	3	PTGER2
+GO: Biological Process	GO:0050864	regulation of B cell activation	 	7.289E-3	1.000E0	4.180E-2	3.457E-1	3	167	CD27,TNFSF13B,TNFRSF4
+GO: Biological Process	GO:0042789	mRNA transcription by RNA polymerase II	 	7.297E-3	1.000E0	4.180E-2	3.457E-1	2	54	S100A10,ANXA2
+GO: Biological Process	GO:0035239	tube morphogenesis	 	7.456E-3	1.000E0	4.260E-2	3.523E-1	9	1483	ANXA1,ANXA2,TMSB4X,FOXP1,MARCKSL1,LEF1,CTSH,LGALS1,LGALS3
+GO: Biological Process	GO:0051702	biological process involved in interaction with symbiont	 	7.531E-3	1.000E0	4.292E-2	3.550E-1	3	169	ANXA2,LEF1,EEF1A1
+GO: Biological Process	GO:0002237	response to molecule of bacterial origin	 	7.612E-3	1.000E0	4.327E-2	3.579E-1	5	520	VIM,B2M,FOXP1,CCR7,PTGER2
+GO: Biological Process	GO:0032652	regulation of interleukin-1 production	 	7.654E-3	1.000E0	4.339E-2	3.589E-1	3	170	ANXA1,FOXP1,CCR7
+GO: Biological Process	GO:0007249	canonical NF-kappaB signal transduction	 	7.792E-3	1.000E0	4.406E-2	3.644E-1	4	331	S100A4,LTB,CCR7,LGALS1
+GO: Biological Process	GO:0002757	immune response-activating signaling pathway	 	7.917E-3	1.000E0	4.465E-2	3.693E-1	5	525	B2M,FOXP1,CCR7,FYB1,LGALS3
+GO: Biological Process	GO:0050830	defense response to Gram-positive bacterium	 	8.029E-3	1.000E0	4.505E-2	3.726E-1	3	173	B2M,MYO1F,IL7R
+GO: Biological Process	GO:0050852	T cell receptor signaling pathway	 	8.029E-3	1.000E0	4.505E-2	3.726E-1	3	173	CCR7,FYB1,LGALS3
+GO: Biological Process	GO:2000404	regulation of T cell migration	 	8.102E-3	1.000E0	4.534E-2	3.750E-1	2	57	CCR6,CCR7
+GO: Biological Process	GO:0044092	negative regulation of molecular function	 	8.267E-3	1.000E0	4.615E-2	3.817E-1	8	1240	TIMP1,ANXA1,B2M,TMSB4X,PTGER2,LEF1,LGALS3,TNFRSF4
+GO: Biological Process	GO:0034110	regulation of homotypic cell-cell adhesion	 	8.378E-3	1.000E0	4.662E-2	3.856E-1	2	58	LGALS1,IL6ST
+GO: Biological Process	GO:0032612	interleukin-1 production	 	8.414E-3	1.000E0	4.662E-2	3.856E-1	3	176	ANXA1,FOXP1,CCR7
+GO: Biological Process	GO:0002456	T cell mediated immunity	 	8.414E-3	1.000E0	4.662E-2	3.856E-1	3	176	B2M,CTSH,IL7R
+GO: Biological Process	GO:0032870	cellular response to hormone stimulus	 	8.541E-3	1.000E0	4.711E-2	3.896E-1	6	754	ANXA1,FOXP1,PTGER2,FKBP11,CTSH,YWHAH
+GO: Biological Process	GO:0072659	protein localization to plasma membrane	 	8.545E-3	1.000E0	4.711E-2	3.896E-1	4	340	S100A10,ANXA2,FYB1,LGALS3
+GO: Biological Process	GO:0002274	myeloid leukocyte activation	 	8.632E-3	1.000E0	4.747E-2	3.926E-1	4	341	ANXA1,MYO1F,FOXP1,FYB1
+GO: Biological Process	GO:0042119	neutrophil activation	 	8.659E-3	1.000E0	4.750E-2	3.928E-1	2	59	ANXA1,MYO1F
+GO: Biological Process	GO:0031342	negative regulation of cell killing	 	8.944E-3	1.000E0	4.882E-2	4.037E-1	2	60	KLRB1,IL7R
+GO: Biological Process	GO:0043392	negative regulation of DNA binding	 	8.944E-3	1.000E0	4.882E-2	4.037E-1	2	60	TMSB4X,LEF1
+GO: Biological Process	GO:0009299	mRNA transcription	 	9.234E-3	1.000E0	4.941E-2	4.087E-1	2	61	S100A10,ANXA2
+GO: Biological Process	GO:0043403	skeletal muscle tissue regeneration	 	9.234E-3	1.000E0	4.941E-2	4.087E-1	2	61	HOPX,ANXA1
+GO: Biological Process	GO:0008064	regulation of actin polymerization or depolymerization	 	9.356E-3	1.000E0	4.941E-2	4.087E-1	3	183	TMSB4X,TMSB10,CCR7
+GO: Biological Process	GO:1905581	positive regulation of low-density lipoprotein particle clearance	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	ANXA2
+GO: Biological Process	GO:2000645	negative regulation of receptor catabolic process	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	ANXA2
+GO: Biological Process	GO:0097022	lymphocyte migration into lymph node	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	CCR7
+GO: Biological Process	GO:0097026	dendritic cell dendrite assembly	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	CCR7
+GO: Biological Process	GO:2000978	negative regulation of forebrain neuron differentiation	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	B2M
+GO: Biological Process	GO:2000525	positive regulation of T cell costimulation	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	CCR7
+GO: Biological Process	GO:0031296	B cell costimulation	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	TNFSF13B
+GO: Biological Process	GO:1900138	negative regulation of phospholipase A2 activity	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	ANXA1
+GO: Biological Process	GO:0014839	myoblast migration involved in skeletal muscle regeneration	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	ANXA1
+GO: Biological Process	GO:0060741	prostate gland stromal morphogenesis	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	CRIP1
+GO: Biological Process	GO:0060474	positive regulation of flagellated sperm motility involved in capacitation	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	CCR6
+GO: Biological Process	GO:0038116	chemokine (C-C motif) ligand 21 signaling pathway	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	CCR7
+GO: Biological Process	GO:0038165	oncostatin-M-mediated signaling pathway	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	IL6ST
+GO: Biological Process	GO:1905273	positive regulation of proton-transporting ATP synthase activity, rotational mechanism	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	TMSB4X
+GO: Biological Process	GO:1905271	regulation of proton-transporting ATP synthase activity, rotational mechanism	 	9.459E-3	1.000E0	4.941E-2	4.087E-1	1	4	TMSB4X
+GO: Biological Process	GO:0030850	prostate gland development	 	9.527E-3	1.000E0	4.965E-2	4.106E-1	2	62	ANXA1,CRIP1
