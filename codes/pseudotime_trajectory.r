@@ -1,6 +1,6 @@
 ## Author: Yu Shuhuan
 ## Date: 2023-10-17
-## Brief description: inference the differiation trajectory of CD4T subtypes, especiallty Treg and Th17
+## Brief description: inference the differentiation trajectory of CD4T subtypes, especially Treg and Th17
 
 ```{r}
 ### monocle3
@@ -56,16 +56,3 @@ ggsave("./result/Plots/monocle3-CD4T_subtype_pseudoime-trajectory.pdf",p1+p2+p3,
 
 saveRDS(cds, "./result/monocle3-PBMC_CD4T.cds")
 ```
-
-##
-To explore the differentiation of CD4T subtypes, we conducted pseudotime trajectory inference using
-Monocle3.Naive T cells were selected as root node manually based on biological knowledge.The developmental
-trajectory of CD4 T subtypes suggested a binary branched structure with two end states:fate1,Treg,and 
-fate2,Th17(Figure).Inference from Slingshot also supported that(Supplementary Fig.).Reording the pseudotime
-revealed Th17 cells are the most mature subtype in CD4 T cells.To explore further the differences between two 
-development branches, each branch were choosen using "choose_graph_segments" function.
-
-beanplot: the p-value of BD and HC pseudotime test in fate1 and fate2 are 0.2326 and 0.005242 respectively. wilcox.test function
-
-pseudotime heatmap for each fate: monocle3 algothrithm and monocle2 visualization.
-##
